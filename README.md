@@ -6,7 +6,7 @@
 
 ## Experimental Overview
 
-![Figure 1: Experimental Overview](<userbias.drawio (5) (1).png>)
+![Figure 1: Experimental Overview](Fig1.png)
 
 **Description:**
 We compare two types of pairwise agreement for *N* participants and 2 LLMs:
