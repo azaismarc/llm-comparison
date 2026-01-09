@@ -4,7 +4,7 @@
 
 ---
 
-## Figure 1: Experimental Overview
+## Experimental Overview
 
 ![Figure 1: Experimental Overview](<userbias.drawio (5) (1).png>)
 
