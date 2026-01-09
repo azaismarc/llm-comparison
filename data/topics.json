@@ -1,0 +1,108 @@
+{
+  "annotator_1@mail.com": {
+    "Chambre": "pièce dans laquelle se trouve le lit.",
+    "Emplacement": "localisation de l'hôtel. proximité avec des lieux d'intérêt et des axes de mobilités.",
+    "Ambiance": "correspond à l'univers de l'hôtel. peut-être lié ",
+    "Rapport qualité-prix": "lien entre la qualité factuelle du produit (ici l'hôtel : services, équipements et la chambre) et le prix pratiqué par l'établissement",
+    "Personnel": "comprends toutes les personnes travaillant pour l'hôtel",
+    "Propreté": "état hygiénique des différents espaces et équipements de l'établissement."
+  },
+  "annotator_2@mail.com": {
+    "Chambre": "une chambre est un lieu de repos disposant d'un lit simple pour une personne ou deux places pour deux personnes. le lit dispose d'un sommier et d'un matelas qui doit être confortable et agréable. une ambiance cosy est de rigueur afin d'apprécier le repos offert par la pièce. la chambre peut être agrémentée d'équipements supplémentaires afin d'en augmenter le confort (table de nuit, télévision etc)",
+    "Emplacement": "un emplacement est un lieu permettant de désigner un point donné de manière précise. il est jugé de qualité s'il répond à certains critères. pour un lieu de résidence, cela peut-être par exemple la proximité avec le centre-ville, la plage, des commerces ou des moyens de transports en commun ou bien encore des monuments, musées etc.",
+    "Ambiance": "il s'agit d'une atmosphère matérielle ou morale qui environne une personne. une ambiance peut donc être défini par la somme des différents éléments que constitue cette atmosphère comme par exemple des couleurs chaudes et des personnes souriantes et aimantes pour une ambiance chaleureuse, synonyme de bien-être, ou bien des couleurs froides et tristes ainsi que des personnes peu accueillantes pourrait être synonyme d'ambiance froide, synonyme de mal-être",
+    "Rapport qualité-prix": "le rapport qualité-prix est un rapport permettant d'évaluer une attraction, un lieu de résidence ou bien la qualité d'une nourriture relative à son prix. un bon rapport qualité-prix se résume à un prix similaire à la qualité offerte, un excellent rapport qualité-prix se traduit par une qualité supérieure ou bien supérieure par rapport au prix exigé.",
+    "Personnel": "le personnel renvoie aux valeurs, goûts, choix intrinsèques à chacun.  "
+  },
+  "annotator_3@mail.com": {
+    "Chambre": "c'est une pièce dans laquelle on dispose d'un lit au minimum",
+    "Emplacement": "c'est la localisation géographique d'un lieu",
+    "Ambiance": "c'est le ressenti que nous inspire une décoration, une musique ",
+    "Rapport qualité-prix": "c'est la différence entre le confort que l'on attend et le montant qu'on est prêt à payer pour l'avoir",
+    "Personnel": "c'est que est propre à un seul individu",
+    "Parking": "c'est l'endroit où l'on stationne notre véhicule"
+  },
+  "annotator_4@mail.com": {
+    "Chambre": "tout ce qui concerne la chambre et la salle de bain, l'espace \"privé\" que votre réservation vous permet d'avoir. cela comprend la surface, l'agencement,  le mobilier, la décoration/ambiance, la salle de bain, les aminities, ",
+    "Emplacement": "l'emplacement de l'hôtel sur son territoire, sa distance aux différentes transports, sa facilité d'accès, l'interêt du quartier pour votre déplacement (loisirs ou affaires) l'ambiance du quartier (ruelle sombre en seconde ligne ou avenue passante, etc) ",
+    "Ambiance": "l'architecture extérieure et intérieure, la décoration, l'ameublement, l'atmosphère voulue par l'hôtelier, potentiellement la thématique de l'hôtel (pension de famille, hôtel particulier, moderne et design, art déco...) ",
+    "Rapport qualité-prix": "le ratio qualité-prix est le ressenti d'un client sur le fait que son séjour a été à la hauteur de ses attentes, au-delà ou en dessous par rapport au prix qu'il a payé.... un prix plus élevé ira avec plus d'exigences, conscientes ou inconscientes, factuelles ou ressenties.",
+    "Personnel": "tout ce qui a trait à l'humain, sa formation, sa locution, la relation créée avec le client, de son accueil à son départ. prévenant ou indifférent, aidant ou inutile,  le point qui va potentiellement influencer le plus le ressenti des voyageurs et pourra majorer ou minorer les notes des autres critères. ",
+    "Les Services": "tout ce qui a trait aux parties communes de l'hôtel, services généraux, parking, restaurants, bars, conciergerie, baggagerie, ..., tout ce qui est en plus de la chambre mais participe au séjours."
+  },
+  "annotator_5@mail.com": {
+    "Chambre": "lieu de repos où l’on peut passer la nuit.",
+    "Emplacement": "juste un lieu à la surface de la terre.",
+    "Ambiance": "l’atmosphère dégagée par une personne ou un groupe de personnes.",
+    "Rapport qualité-prix": "mesure de l’adéquation entre la qualité d’un bien ou service et son coût.",
+    "Personnel": "ensemble d'entités humaines d’une organisation."
+  },
+  "annotator_6@mail.com": {
+    "Chambre": "à quel point la chambre, ou l'espace pour dormir est appréciable. cela peut s’étendre sur plusieurs critères, la propreté, le confort du ou de lits, le silence, les équipements mis à dispositions.  ",
+    "Emplacement": "ici on va prendre en compte un compromis entre accessibilité et silence. selon certain.es, l'un de es 2 critère peu n'avoir aucune importance. pour l'accessibilité, cela peut être à des activités, à un lieu de transport (par exemple la gare), ou proximité d'un lieu de travail. ",
+    "Ambiance": "cela peut couvrir d’éventuelles activités proposées par l’hôtel, le comportement des employés de l’hôtel, de potentielles musiques et décorations dans l'hôtel et dans les chambres.  ",
+    "Rapport qualité-prix": "cela va dépendre de la ville où on se trouve, un hôtel bon marché à la rochelle ne le sera pas forcément ailleurs. on va aussi prendre en compte, dans un premier temps la quantité de service mis à dispositions, et une propreté et un calme appréciable. puis si les prix augmente on attendra en plus un certain luxe. ",
+    "Personnel": "cela traite de tout ce qui a trait aux employés de l’hôtel. leur nombre et leur comportement principalement. "
+  },
+  "annotator_7@mail.com": {
+    "Chambre": "pièce fermée à clé et privée pour dormir composé d'un lit et avec sa literie et généralement d'une fenêtre. on peut y trouver une salle de bain, une télévision ou autre équipement.",
+    "Emplacement": "lieu de localisation, décrivant le quartier, la ville, les activités à proximité, les commerces et les moyens de transport.",
+    "Ambiance": "on entend par ambiance la décoration, la propreté, l'accueil, le bruit. cela qualifie par le ressenti lorsqu'on entre dans l'hôtel, comment on se sent à l'intérieur.",
+    "Rapport qualité-prix": "le rapport qualité prix permet de justifier le prix d'une nuit d'hôtel. un prix élevé peut-être justifié par une qualité supérieure, par rapport à un autre hôtel proposant le même service de base.",
+    "Personnel": "le personnel regroupe les personnes travaillant dans l'hôtel, au service des clients, que ça soit à l'accueil, pour le ménage, ou d'autres services.",
+    "Petit-Déjeuner": "cela correspond au repas proposé au réveil, dans la matinée. il faudra évaluer la quantité et la qualité.",
+    "Propreté": "la propreté concerne la literie, l'état de la chambre et de la salle de bain, des locaux et parties communes. il faut regarder la poussière, les tâches, la moisissure, le calcaire.",
+    "Services Additionnels": "services non nécessaires mais proposés tels que l'accès à une piscine, un room service, une télévision, l'accès à un spa, l'accès à des infrastructures pour le sport, une place de parking, un restaurant ou cafétéria, l'accès à un balcon."
+  },
+  "annotator_8@mail.com": {
+    "Chambre": "pièce dans laquelle se trouve un meuble permettant de dormir (lit, canapé, etc).",
+    "Emplacement": "localisation pour quelque chose. dans le cadre d'un hôtel cela fait référence à la qualité de la localisation de ce dernier par rapport aux services proches ainsi que la géographie de l'endroit dans lequel il se trouve.",
+    "Ambiance": "ressenti humain dans un environnement donné. souvent sujet à l'état émotionnel de la personne.",
+    "Rapport qualité-prix": "ratio de la qualité de l'expérience vécue par rapport au prix payé.",
+    "Personnel": "tout ce qui se rapporte a un individu donné (souvent acteur de la phrase)."
+  },
+  "annotator_9@mail.com": {
+    "Chambre": "la chambre correspond à la pièce principale louée. elle contient la plupart du temps un lit et est reliée au couloir ou parties communes et à la salle de bain.",
+    "Emplacement": "l'emplacement de l'hôtel correspond à son positionnement géographique, relativement à son environnement.",
+    "Ambiance": "l'ambiance d'un hôtel correspond à l'atmosphère perceptible dans l'hôtel et à ses alentours. elle se caractérise par l'environnement extérieur et par la décoration intérieur.",
+    "Rapport qualité-prix": "le rapport qualité-prix est un indicateur de la qualité par rapport au prix payé.",
+    "Personnel": "le thème personnel se rapporte aux employés de l'hôtel, leur rapport avec les clients, leur professionnalisme ainsi que la qualité des prestations qu'ils effectuent.",
+    "Accessibilité": "se rapporte à la facilité d'accès pour les personnes à mobilité réduites ou non.",
+    "Propreté": "se rapporte à la propreté, le niveau d'hygiène général de l'hôtel, de la chambre et de la salle de bain.",
+    "Literie": "se rapporte à la qualité et au confort du lit de la chambre."
+  },
+  "annotator_10@mail.com": {
+    "Chambre": "la chambre est l'endroit où on dort, c'est donc un endroit plutôt important. souvent rectangulaire avec une ou plusieurs fenêtres. c'est l'endroit où on passe plus de temps dans un hôtel. ",
+    "Emplacement": "l'emplacement est la localisation d'un établissement. il peut être positif ou négatif. le facteur visuel peut rentrer en jeu, comme la vue (sur la mer ou les montagnes par exemple), le quartier, les bâtiments alentours, etc. mais aussi sur un facteur sonore, par exemple être situé près d'un axe routier, d'une gare ou d'un aéroport n'est jamais bon, le calme est généralement préféré. ",
+    "Ambiance": "beaucoup de choses définissent l'ambiance d'un lieu. cela peut être l'emplacement dans la ville, la déco intérieure, le personnel, les clients, la musique, etc. l'ambiance, c'est comment l'on se sent dans un lieu, à l'aise ou non. c'est aussi un des facteurs très importants pour savoir si l'on revient dans l'établissement.",
+    "Rapport qualité-prix": "c'est ce que l'on obtient en proportion de ce que l'on a investi. lorsque le rapport qualité-prix est bon, on a l'impression d'avoir fait une bonne affaire et que l'on aurait pu payer plus cher pour la même chose.",
+    "Personnel": "le personnel est l'équipe qui travaille dans un établissement. c'est eux qui sont en charge de l'expérience des clients. c'est le contact humain de l'expérience.  c'est ce qui caractérise si un lieu est accueillant ou non. "
+  },
+  "annotator_11@mail.com": {
+    "Chambre": "c’est l’espace habitable, destiné à l’accueil ou au séjour d’un client dans un établissement (hôtel, pension, etc.). elle est généralement équipée de meubles et d’installations de base (lit(s), salle de bain, bureau, mini frigo , cuisine, etc.) et peut être individuelle ou partagée.",
+    "Emplacement": "c’est la position géographique précise d’un établissement par rapport aux points de repère (centres ville, attractions/lieu touristiques, transports en commun). un bon emplacement influence positivement l’accessibilité, le confort des clients et leur perception globale de l’hébergement.",
+    "Ambiance": "c’est l'atmosphère générale d’un lieu, définie par les éléments visuels, sonores, olfactifs et sensoriels qui créent une impression ou un sentiment chez les visiteurs (ex : chaleureuse, luxueuse, romantique). elle conditionne l’expérience client et la notoriété de l’établissement.",
+    "Rapport qualité-prix": "c’est la valeur perçue par le client entre le niveau de service, d’équipement ou de confort fourni par un établissement et le prix payé pour celui-ci. un bon rapport qualité-prix signifie que les prestations correspondent ou dépassent l'investissement financier effectué.",
+    "Personnel": "ce sont les employés ou travailleurs qui assurent l’accueil, le service client, la gestion quotidienne de l’établissement (hôtel, restaurant, etc.). leur formation, leur comportement et leur disponibilité influencent directement l’expérience du visiteur.",
+    "Accessibilité": "c'est la facilité avec laquelle un client peut atteindre et utiliser un établissement ou un service, quel que soit son âge, sa condition physique ou ses capacités. elle comprend à la fois l'accessibilité physique (accès aux espaces, ascenseurs, rampes, etc.) et l'accessibilité fonctionnelle (services adaptés, informations accessibles, équipements spécifiques pour les personnes à mobilité réduite). une bonne accessibilité garantit que tous les clients peuvent bénéficier pleinement des services proposés."
+  },
+  "annotator_12@mail.com": {
+    "Chambre": "réfère au bien loué durant un séjour. thème qui aborde tout les éléments se trouvant dans la chambre (literie, sommier, sol, fenêtre, mobilier)",
+    "Emplacement": "thème qui traite de l'emplacement de l'hôtel, qui vise à l'intégrer dans une comparaison avec  les différents point d’intérêts avoisinant (port, bar, restaurant, mer, lieux de loisirs, arrêt de bus, stations de métro, route)",
+    "Ambiance": "défini la décoration (mobilier ou lumineuse) de l'hôtel dans toute ses parties (de l’accueil à la chambre). ",
+    "Rapport qualité-prix": "thème qui met en comparaison la qualité des services (qualité du personnel, restauration, ambiance, chambre, piscine, jacccuzi, salle de bain) proposés par l’hôtel, et le prix payé pour la chambre. ",
+    "Personnel": "qualité du personnel employé dans l’hôtel. essentiellement abordé pour traiter de l’amabilité, la disponibilité, la sympathie ou encore la compétence proposé.   ",
+    "Restauration": "thème qui aborde la qualité du service de restauration. juge la qualité de la nourriture en tant que telle (gustatif, présentation, température du plat adéquat) et de la qualité du service (compétence, rapidité de service, sympathie du serveur)"
+  },
+  "annotator_13@mail.com": {
+    "Chambre": "confort (notamment literie et équipement), propreté et taille de la chambre et de la salle de bain",
+    "Emplacement": "localisation de l'hôtel par rapport au centre-ville ou un autre point d'intérêt, bruit, sécurité",
+    "Ambiance": "décoration, lumière",
+    "Rapport qualité-prix": "qualité des services proposés, confort de la chambre, propreté et localisation de l'hôtel par rapport au prix de la nuit",
+    "Personnel": "évalue si le personnel est aidant, accueillant, aimable, efficace, et parle-t-il anglais (ou d'autres langues)",
+    "Site Web": "facilité de la réservation, esthétique du site",
+    "Propreté": "propreté de la chambre et de l'ensemble de l'hôtel, régularité et rigueur du ménage, notamment au niveau de la salle de bain et du linge de lit",
+    "Accès": "facilité d'accès de l'hôtel, parking",
+    "Restauration": "présence et qualité d'un service de restauration, petit-déjeuner, et prix du petit--déjeuner"
+  }
+}

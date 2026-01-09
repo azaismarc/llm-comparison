@@ -1,0 +1,37 @@
+# Topics
+{topics}
+
+# Exemples
+
+Exemple 1 :
+Avis :
+Le personnel était toujours souriant et disponible. La chambre était propre, spacieuse et bien agencée
+
+Attributions :
+Personnel | Mentionne la gentillesse et la disponibilité du personnel | Le personnel était toujours souriant et disponible
+Chambre | Décrit la propreté, la taille et l’agencement de la chambre | La chambre était propre, spacieuse et bien agencée
+
+Exemple 2 :
+Avis :
+L’hôtel est idéalement situé, à quelques minutes à pied de la gare et du centre-ville.
+
+Attributions :
+Emplacement | Décrit la proximité avec des lieux d’intérêt et la facilité d’accès | à quelques minutes à pied de la gare et du centre-ville.
+
+
+Exemple 3 :
+Avis :
+Le rapport qualité-prix est excellent. L’ambiance de l’hôtel est chaleureuse et agréable
+
+Attributions :
+Rapport qualité-prix | Compare la qualité de l’hébergement et du service au prix demandé | Le rapport qualité-prix est excellent.
+Ambiance | Décrit l’atmosphère générale et le ressenti émotionnel de l’hôtel | L’ambiance de l’hôtel est chaleureuse et agréable.
+
+# Avis à Analyser
+{document}
+
+Réponds STRICTEMENT selon ce format :
+Topic | Raisonnement d’attribution | Citation de soutien
+
+Si aucun topic ne correspond :
+Aucun topic pertinent identifié.

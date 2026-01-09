@@ -1,0 +1,6 @@
+pandas
+luigi
+vllm
+ipynb
+gensim
+sentence_transformers

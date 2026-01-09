@@ -1,0 +1,2102 @@
+{
+  "Llama-3.3-70B-Instruct-FP8": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 1126,
+        "Emplacement": 1245,
+        "Rapport qualité-prix": 333,
+        "Ambiance": 242,
+        "Personnel": 655
+      },
+      "full": {
+        "Chambre": 1021,
+        "Emplacement": 1195,
+        "Rapport qualité-prix": 129,
+        "Ambiance": 204,
+        "Personnel": 647
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 1076,
+        "Emplacement": 1069,
+        "Rapport qualité-prix": 221,
+        "Ambiance": 405,
+        "Personnel": 656
+      },
+      "sample": {
+        "Chambre": 1080,
+        "Emplacement": 1115,
+        "Rapport qualité-prix": 251,
+        "Ambiance": 381,
+        "Personnel": 665
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 1245,
+        "Emplacement": 1115,
+        "Rapport qualité-prix": 264,
+        "Ambiance": 397,
+        "Personnel": 679
+      },
+      "full": {
+        "Chambre": 1197,
+        "Emplacement": 1064,
+        "Rapport qualité-prix": 171,
+        "Ambiance": 237,
+        "Personnel": 657
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 1077,
+        "Emplacement": 1249,
+        "Rapport qualité-prix": 264,
+        "Ambiance": 432,
+        "Personnel": 670
+      },
+      "full": {
+        "Chambre": 1077,
+        "Emplacement": 1249,
+        "Rapport qualité-prix": 264,
+        "Ambiance": 432,
+        "Personnel": 670
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 1086,
+        "Emplacement": 1137,
+        "Rapport qualité-prix": 235,
+        "Ambiance": 374,
+        "Personnel": 668
+      },
+      "full": {
+        "Chambre": 1086,
+        "Emplacement": 1137,
+        "Rapport qualité-prix": 235,
+        "Ambiance": 374,
+        "Personnel": 668
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 1049,
+        "Emplacement": 1103,
+        "Rapport qualité-prix": 278,
+        "Ambiance": 338,
+        "Personnel": 670
+      },
+      "sample": {
+        "Chambre": 1152,
+        "Emplacement": 1096,
+        "Rapport qualité-prix": 308,
+        "Ambiance": 364,
+        "Personnel": 680
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 983,
+        "Emplacement": 1055,
+        "Rapport qualité-prix": 120,
+        "Ambiance": 536,
+        "Personnel": 618
+      },
+      "sample": {
+        "Chambre": 1084,
+        "Emplacement": 1108,
+        "Rapport qualité-prix": 206,
+        "Ambiance": 686,
+        "Personnel": 659
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 1112,
+        "Emplacement": 1148,
+        "Rapport qualité-prix": 262,
+        "Ambiance": 286,
+        "Personnel": 680
+      },
+      "full": {
+        "Chambre": 1112,
+        "Emplacement": 1148,
+        "Rapport qualité-prix": 262,
+        "Ambiance": 286,
+        "Personnel": 680
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 1264,
+        "Emplacement": 1092,
+        "Rapport qualité-prix": 209,
+        "Ambiance": 510,
+        "Personnel": 631
+      },
+      "full": {
+        "Chambre": 1264,
+        "Emplacement": 1092,
+        "Rapport qualité-prix": 209,
+        "Ambiance": 510,
+        "Personnel": 631
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 1064,
+        "Emplacement": 1091,
+        "Rapport qualité-prix": 229,
+        "Ambiance": 573,
+        "Personnel": 686
+      },
+      "full": {
+        "Chambre": 837,
+        "Emplacement": 1093,
+        "Rapport qualité-prix": 201,
+        "Ambiance": 547,
+        "Personnel": 666
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 1168,
+        "Emplacement": 1131,
+        "Rapport qualité-prix": 423,
+        "Ambiance": 320,
+        "Personnel": 641
+      },
+      "full": {
+        "Chambre": 1184,
+        "Emplacement": 1136,
+        "Rapport qualité-prix": 160,
+        "Ambiance": 267,
+        "Personnel": 644
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 1147,
+        "Emplacement": 1046,
+        "Rapport qualité-prix": 254,
+        "Ambiance": 455,
+        "Personnel": 663
+      },
+      "sample": {
+        "Chambre": 1141,
+        "Emplacement": 1086,
+        "Rapport qualité-prix": 261,
+        "Ambiance": 445,
+        "Personnel": 649
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 1027,
+        "Emplacement": 1127,
+        "Rapport qualité-prix": 283,
+        "Ambiance": 495,
+        "Personnel": 616
+      },
+      "sample": {
+        "Chambre": 1027,
+        "Emplacement": 1127,
+        "Rapport qualité-prix": 283,
+        "Ambiance": 495,
+        "Personnel": 616
+      }
+    }
+  },
+  "Mistral-Small-3.2-24B-Instruct-2506": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 989,
+        "Emplacement": 1228,
+        "Rapport qualité-prix": 177,
+        "Ambiance": 217,
+        "Personnel": 682
+      },
+      "full": {
+        "Chambre": 858,
+        "Emplacement": 1207,
+        "Rapport qualité-prix": 83,
+        "Ambiance": 190,
+        "Personnel": 638
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 938,
+        "Emplacement": 1040,
+        "Rapport qualité-prix": 131,
+        "Ambiance": 295,
+        "Personnel": 649
+      },
+      "sample": {
+        "Chambre": 947,
+        "Emplacement": 1090,
+        "Rapport qualité-prix": 139,
+        "Ambiance": 283,
+        "Personnel": 656
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 1118,
+        "Emplacement": 1139,
+        "Rapport qualité-prix": 165,
+        "Ambiance": 285,
+        "Personnel": 701
+      },
+      "full": {
+        "Chambre": 1078,
+        "Emplacement": 1070,
+        "Rapport qualité-prix": 105,
+        "Ambiance": 211,
+        "Personnel": 639
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 935,
+        "Emplacement": 1264,
+        "Rapport qualité-prix": 144,
+        "Ambiance": 252,
+        "Personnel": 652
+      },
+      "full": {
+        "Chambre": 935,
+        "Emplacement": 1264,
+        "Rapport qualité-prix": 144,
+        "Ambiance": 252,
+        "Personnel": 652
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 945,
+        "Emplacement": 1126,
+        "Rapport qualité-prix": 177,
+        "Ambiance": 194,
+        "Personnel": 667
+      },
+      "full": {
+        "Chambre": 945,
+        "Emplacement": 1126,
+        "Rapport qualité-prix": 177,
+        "Ambiance": 194,
+        "Personnel": 667
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 913,
+        "Emplacement": 1079,
+        "Rapport qualité-prix": 150,
+        "Ambiance": 209,
+        "Personnel": 661
+      },
+      "sample": {
+        "Chambre": 1041,
+        "Emplacement": 1083,
+        "Rapport qualité-prix": 181,
+        "Ambiance": 220,
+        "Personnel": 671
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 807,
+        "Emplacement": 1028,
+        "Rapport qualité-prix": 89,
+        "Ambiance": 477,
+        "Personnel": 582
+      },
+      "sample": {
+        "Chambre": 906,
+        "Emplacement": 1074,
+        "Rapport qualité-prix": 120,
+        "Ambiance": 679,
+        "Personnel": 602
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 1021,
+        "Emplacement": 1156,
+        "Rapport qualité-prix": 183,
+        "Ambiance": 200,
+        "Personnel": 663
+      },
+      "full": {
+        "Chambre": 1021,
+        "Emplacement": 1156,
+        "Rapport qualité-prix": 183,
+        "Ambiance": 200,
+        "Personnel": 663
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 1082,
+        "Emplacement": 1119,
+        "Rapport qualité-prix": 171,
+        "Ambiance": 319,
+        "Personnel": 645
+      },
+      "full": {
+        "Chambre": 1082,
+        "Emplacement": 1119,
+        "Rapport qualité-prix": 171,
+        "Ambiance": 319,
+        "Personnel": 645
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 942,
+        "Emplacement": 1135,
+        "Rapport qualité-prix": 184,
+        "Ambiance": 358,
+        "Personnel": 692
+      },
+      "full": {
+        "Chambre": 787,
+        "Emplacement": 1107,
+        "Rapport qualité-prix": 151,
+        "Ambiance": 323,
+        "Personnel": 665
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 999,
+        "Emplacement": 1133,
+        "Rapport qualité-prix": 213,
+        "Ambiance": 252,
+        "Personnel": 620
+      },
+      "full": {
+        "Chambre": 1030,
+        "Emplacement": 1160,
+        "Rapport qualité-prix": 116,
+        "Ambiance": 202,
+        "Personnel": 618
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 1054,
+        "Emplacement": 1056,
+        "Rapport qualité-prix": 169,
+        "Ambiance": 303,
+        "Personnel": 690
+      },
+      "sample": {
+        "Chambre": 1056,
+        "Emplacement": 1083,
+        "Rapport qualité-prix": 168,
+        "Ambiance": 274,
+        "Personnel": 669
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 878,
+        "Emplacement": 1104,
+        "Rapport qualité-prix": 131,
+        "Ambiance": 224,
+        "Personnel": 618
+      },
+      "sample": {
+        "Chambre": 878,
+        "Emplacement": 1104,
+        "Rapport qualité-prix": 131,
+        "Ambiance": 224,
+        "Personnel": 618
+      }
+    }
+  },
+  "gemma-3-27b-it": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 1086,
+        "Emplacement": 1320,
+        "Rapport qualité-prix": 358,
+        "Ambiance": 192,
+        "Personnel": 655
+      },
+      "full": {
+        "Chambre": 957,
+        "Emplacement": 1228,
+        "Rapport qualité-prix": 109,
+        "Ambiance": 184,
+        "Personnel": 647
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 1141,
+        "Emplacement": 1095,
+        "Rapport qualité-prix": 186,
+        "Ambiance": 254,
+        "Personnel": 640
+      },
+      "sample": {
+        "Chambre": 1154,
+        "Emplacement": 1175,
+        "Rapport qualité-prix": 230,
+        "Ambiance": 237,
+        "Personnel": 647
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 1166,
+        "Emplacement": 1174,
+        "Rapport qualité-prix": 328,
+        "Ambiance": 242,
+        "Personnel": 666
+      },
+      "full": {
+        "Chambre": 1149,
+        "Emplacement": 1101,
+        "Rapport qualité-prix": 138,
+        "Ambiance": 209,
+        "Personnel": 657
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 1153,
+        "Emplacement": 1271,
+        "Rapport qualité-prix": 278,
+        "Ambiance": 277,
+        "Personnel": 639
+      },
+      "full": {
+        "Chambre": 1153,
+        "Emplacement": 1271,
+        "Rapport qualité-prix": 278,
+        "Ambiance": 277,
+        "Personnel": 639
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 1156,
+        "Emplacement": 1191,
+        "Rapport qualité-prix": 284,
+        "Ambiance": 280,
+        "Personnel": 645
+      },
+      "full": {
+        "Chambre": 1156,
+        "Emplacement": 1191,
+        "Rapport qualité-prix": 284,
+        "Ambiance": 280,
+        "Personnel": 645
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 1036,
+        "Emplacement": 1171,
+        "Rapport qualité-prix": 341,
+        "Ambiance": 196,
+        "Personnel": 654
+      },
+      "sample": {
+        "Chambre": 1142,
+        "Emplacement": 1165,
+        "Rapport qualité-prix": 359,
+        "Ambiance": 198,
+        "Personnel": 658
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 861,
+        "Emplacement": 1066,
+        "Rapport qualité-prix": 101,
+        "Ambiance": 514,
+        "Personnel": 618
+      },
+      "sample": {
+        "Chambre": 986,
+        "Emplacement": 1130,
+        "Rapport qualité-prix": 235,
+        "Ambiance": 741,
+        "Personnel": 625
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 1174,
+        "Emplacement": 1191,
+        "Rapport qualité-prix": 285,
+        "Ambiance": 187,
+        "Personnel": 642
+      },
+      "full": {
+        "Chambre": 1174,
+        "Emplacement": 1191,
+        "Rapport qualité-prix": 285,
+        "Ambiance": 187,
+        "Personnel": 642
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 1216,
+        "Emplacement": 1195,
+        "Rapport qualité-prix": 374,
+        "Ambiance": 322,
+        "Personnel": 619
+      },
+      "full": {
+        "Chambre": 1216,
+        "Emplacement": 1195,
+        "Rapport qualité-prix": 374,
+        "Ambiance": 322,
+        "Personnel": 619
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 1135,
+        "Emplacement": 1130,
+        "Rapport qualité-prix": 328,
+        "Ambiance": 371,
+        "Personnel": 666
+      },
+      "full": {
+        "Chambre": 881,
+        "Emplacement": 1106,
+        "Rapport qualité-prix": 280,
+        "Ambiance": 356,
+        "Personnel": 659
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 1126,
+        "Emplacement": 1200,
+        "Rapport qualité-prix": 381,
+        "Ambiance": 226,
+        "Personnel": 642
+      },
+      "full": {
+        "Chambre": 1145,
+        "Emplacement": 1200,
+        "Rapport qualité-prix": 141,
+        "Ambiance": 210,
+        "Personnel": 638
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 1163,
+        "Emplacement": 1132,
+        "Rapport qualité-prix": 305,
+        "Ambiance": 222,
+        "Personnel": 654
+      },
+      "sample": {
+        "Chambre": 1176,
+        "Emplacement": 1141,
+        "Rapport qualité-prix": 294,
+        "Ambiance": 212,
+        "Personnel": 653
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 1141,
+        "Emplacement": 1161,
+        "Rapport qualité-prix": 317,
+        "Ambiance": 244,
+        "Personnel": 622
+      },
+      "sample": {
+        "Chambre": 1141,
+        "Emplacement": 1166,
+        "Rapport qualité-prix": 317,
+        "Ambiance": 247,
+        "Personnel": 623
+      }
+    }
+  },
+  "Llama-3.1-8B-Instruct": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 969,
+        "Emplacement": 1131,
+        "Rapport qualité-prix": 265,
+        "Ambiance": 327,
+        "Personnel": 678
+      },
+      "full": {
+        "Chambre": 721,
+        "Emplacement": 1016,
+        "Rapport qualité-prix": 189,
+        "Ambiance": 248,
+        "Personnel": 629
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 957,
+        "Emplacement": 971,
+        "Rapport qualité-prix": 184,
+        "Ambiance": 257,
+        "Personnel": 601
+      },
+      "sample": {
+        "Chambre": 932,
+        "Emplacement": 1044,
+        "Rapport qualité-prix": 184,
+        "Ambiance": 258,
+        "Personnel": 619
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 983,
+        "Emplacement": 971,
+        "Rapport qualité-prix": 299,
+        "Ambiance": 466,
+        "Personnel": 666
+      },
+      "full": {
+        "Chambre": 968,
+        "Emplacement": 929,
+        "Rapport qualité-prix": 125,
+        "Ambiance": 322,
+        "Personnel": 636
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 1005,
+        "Emplacement": 1174,
+        "Rapport qualité-prix": 292,
+        "Ambiance": 456,
+        "Personnel": 651
+      },
+      "full": {
+        "Chambre": 1005,
+        "Emplacement": 1174,
+        "Rapport qualité-prix": 292,
+        "Ambiance": 456,
+        "Personnel": 651
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 991,
+        "Emplacement": 1077,
+        "Rapport qualité-prix": 280,
+        "Ambiance": 319,
+        "Personnel": 624
+      },
+      "full": {
+        "Chambre": 991,
+        "Emplacement": 1077,
+        "Rapport qualité-prix": 280,
+        "Ambiance": 319,
+        "Personnel": 624
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 870,
+        "Emplacement": 966,
+        "Rapport qualité-prix": 241,
+        "Ambiance": 268,
+        "Personnel": 657
+      },
+      "sample": {
+        "Chambre": 908,
+        "Emplacement": 960,
+        "Rapport qualité-prix": 269,
+        "Ambiance": 334,
+        "Personnel": 659
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 684,
+        "Emplacement": 931,
+        "Rapport qualité-prix": 113,
+        "Ambiance": 487,
+        "Personnel": 599
+      },
+      "sample": {
+        "Chambre": 867,
+        "Emplacement": 959,
+        "Rapport qualité-prix": 263,
+        "Ambiance": 647,
+        "Personnel": 643
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 826,
+        "Emplacement": 968,
+        "Rapport qualité-prix": 217,
+        "Ambiance": 206,
+        "Personnel": 642
+      },
+      "full": {
+        "Chambre": 826,
+        "Emplacement": 968,
+        "Rapport qualité-prix": 217,
+        "Ambiance": 206,
+        "Personnel": 642
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 1124,
+        "Emplacement": 933,
+        "Rapport qualité-prix": 261,
+        "Ambiance": 416,
+        "Personnel": 621
+      },
+      "full": {
+        "Chambre": 1124,
+        "Emplacement": 933,
+        "Rapport qualité-prix": 261,
+        "Ambiance": 416,
+        "Personnel": 621
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 926,
+        "Emplacement": 949,
+        "Rapport qualité-prix": 239,
+        "Ambiance": 481,
+        "Personnel": 682
+      },
+      "full": {
+        "Chambre": 631,
+        "Emplacement": 932,
+        "Rapport qualité-prix": 219,
+        "Ambiance": 459,
+        "Personnel": 664
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 975,
+        "Emplacement": 936,
+        "Rapport qualité-prix": 315,
+        "Ambiance": 406,
+        "Personnel": 568
+      },
+      "full": {
+        "Chambre": 1016,
+        "Emplacement": 940,
+        "Rapport qualité-prix": 130,
+        "Ambiance": 355,
+        "Personnel": 577
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 925,
+        "Emplacement": 896,
+        "Rapport qualité-prix": 246,
+        "Ambiance": 400,
+        "Personnel": 625
+      },
+      "sample": {
+        "Chambre": 970,
+        "Emplacement": 966,
+        "Rapport qualité-prix": 251,
+        "Ambiance": 435,
+        "Personnel": 632
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 953,
+        "Emplacement": 960,
+        "Rapport qualité-prix": 305,
+        "Ambiance": 394,
+        "Personnel": 580
+      },
+      "sample": {
+        "Chambre": 953,
+        "Emplacement": 960,
+        "Rapport qualité-prix": 305,
+        "Ambiance": 394,
+        "Personnel": 580
+      }
+    }
+  },
+  "Ministral-8B-Instruct-2410": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 568,
+        "Emplacement": 872,
+        "Rapport qualité-prix": 106,
+        "Ambiance": 291,
+        "Personnel": 568
+      },
+      "full": {
+        "Chambre": 535,
+        "Emplacement": 941,
+        "Rapport qualité-prix": 54,
+        "Ambiance": 143,
+        "Personnel": 570
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 515,
+        "Emplacement": 828,
+        "Rapport qualité-prix": 98,
+        "Ambiance": 316,
+        "Personnel": 537
+      },
+      "sample": {
+        "Chambre": 516,
+        "Emplacement": 837,
+        "Rapport qualité-prix": 125,
+        "Ambiance": 334,
+        "Personnel": 533
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 666,
+        "Emplacement": 876,
+        "Rapport qualité-prix": 136,
+        "Ambiance": 324,
+        "Personnel": 595
+      },
+      "full": {
+        "Chambre": 668,
+        "Emplacement": 888,
+        "Rapport qualité-prix": 93,
+        "Ambiance": 170,
+        "Personnel": 595
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 524,
+        "Emplacement": 895,
+        "Rapport qualité-prix": 104,
+        "Ambiance": 395,
+        "Personnel": 551
+      },
+      "full": {
+        "Chambre": 524,
+        "Emplacement": 895,
+        "Rapport qualité-prix": 104,
+        "Ambiance": 395,
+        "Personnel": 551
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 584,
+        "Emplacement": 857,
+        "Rapport qualité-prix": 127,
+        "Ambiance": 370,
+        "Personnel": 591
+      },
+      "full": {
+        "Chambre": 584,
+        "Emplacement": 857,
+        "Rapport qualité-prix": 127,
+        "Ambiance": 370,
+        "Personnel": 591
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 493,
+        "Emplacement": 870,
+        "Rapport qualité-prix": 132,
+        "Ambiance": 306,
+        "Personnel": 561
+      },
+      "sample": {
+        "Chambre": 564,
+        "Emplacement": 852,
+        "Rapport qualité-prix": 147,
+        "Ambiance": 364,
+        "Personnel": 570
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 459,
+        "Emplacement": 860,
+        "Rapport qualité-prix": 54,
+        "Ambiance": 203,
+        "Personnel": 543
+      },
+      "sample": {
+        "Chambre": 492,
+        "Emplacement": 862,
+        "Rapport qualité-prix": 108,
+        "Ambiance": 425,
+        "Personnel": 573
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 523,
+        "Emplacement": 812,
+        "Rapport qualité-prix": 114,
+        "Ambiance": 347,
+        "Personnel": 549
+      },
+      "full": {
+        "Chambre": 523,
+        "Emplacement": 812,
+        "Rapport qualité-prix": 114,
+        "Ambiance": 347,
+        "Personnel": 549
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 585,
+        "Emplacement": 843,
+        "Rapport qualité-prix": 132,
+        "Ambiance": 383,
+        "Personnel": 530
+      },
+      "full": {
+        "Chambre": 585,
+        "Emplacement": 843,
+        "Rapport qualité-prix": 132,
+        "Ambiance": 383,
+        "Personnel": 530
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 538,
+        "Emplacement": 827,
+        "Rapport qualité-prix": 106,
+        "Ambiance": 427,
+        "Personnel": 572
+      },
+      "full": {
+        "Chambre": 367,
+        "Emplacement": 842,
+        "Rapport qualité-prix": 93,
+        "Ambiance": 379,
+        "Personnel": 567
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 674,
+        "Emplacement": 903,
+        "Rapport qualité-prix": 157,
+        "Ambiance": 376,
+        "Personnel": 538
+      },
+      "full": {
+        "Chambre": 616,
+        "Emplacement": 876,
+        "Rapport qualité-prix": 66,
+        "Ambiance": 202,
+        "Personnel": 540
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 494,
+        "Emplacement": 810,
+        "Rapport qualité-prix": 93,
+        "Ambiance": 335,
+        "Personnel": 537
+      },
+      "sample": {
+        "Chambre": 503,
+        "Emplacement": 805,
+        "Rapport qualité-prix": 112,
+        "Ambiance": 357,
+        "Personnel": 536
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 474,
+        "Emplacement": 836,
+        "Rapport qualité-prix": 127,
+        "Ambiance": 353,
+        "Personnel": 505
+      },
+      "sample": {
+        "Chambre": 474,
+        "Emplacement": 836,
+        "Rapport qualité-prix": 127,
+        "Ambiance": 353,
+        "Personnel": 505
+      }
+    }
+  },
+  "Llama-3.2-1B-Instruct": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 440,
+        "Emplacement": 689,
+        "Rapport qualité-prix": 331,
+        "Ambiance": 360,
+        "Personnel": 584
+      },
+      "full": {
+        "Chambre": 485,
+        "Emplacement": 657,
+        "Rapport qualité-prix": 300,
+        "Ambiance": 250,
+        "Personnel": 582
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 350,
+        "Emplacement": 587,
+        "Rapport qualité-prix": 390,
+        "Ambiance": 428,
+        "Personnel": 547
+      },
+      "sample": {
+        "Chambre": 374,
+        "Emplacement": 497,
+        "Rapport qualité-prix": 391,
+        "Ambiance": 439,
+        "Personnel": 716
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 717,
+        "Emplacement": 919,
+        "Rapport qualité-prix": 378,
+        "Ambiance": 513,
+        "Personnel": 784
+      },
+      "full": {
+        "Chambre": 434,
+        "Emplacement": 712,
+        "Rapport qualité-prix": 244,
+        "Ambiance": 385,
+        "Personnel": 716
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 534,
+        "Emplacement": 930,
+        "Rapport qualité-prix": 439,
+        "Ambiance": 552,
+        "Personnel": 877
+      },
+      "full": {
+        "Chambre": 534,
+        "Emplacement": 930,
+        "Rapport qualité-prix": 439,
+        "Ambiance": 552,
+        "Personnel": 877
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 742,
+        "Emplacement": 888,
+        "Rapport qualité-prix": 578,
+        "Ambiance": 669,
+        "Personnel": 897
+      },
+      "full": {
+        "Chambre": 742,
+        "Emplacement": 888,
+        "Rapport qualité-prix": 578,
+        "Ambiance": 669,
+        "Personnel": 897
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 624,
+        "Emplacement": 785,
+        "Rapport qualité-prix": 541,
+        "Ambiance": 541,
+        "Personnel": 967
+      },
+      "sample": {
+        "Chambre": 693,
+        "Emplacement": 745,
+        "Rapport qualité-prix": 435,
+        "Ambiance": 492,
+        "Personnel": 906
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 510,
+        "Emplacement": 610,
+        "Rapport qualité-prix": 373,
+        "Ambiance": 388,
+        "Personnel": 608
+      },
+      "sample": {
+        "Chambre": 681,
+        "Emplacement": 1064,
+        "Rapport qualité-prix": 513,
+        "Ambiance": 496,
+        "Personnel": 1008
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 735,
+        "Emplacement": 799,
+        "Rapport qualité-prix": 509,
+        "Ambiance": 556,
+        "Personnel": 1008
+      },
+      "full": {
+        "Chambre": 735,
+        "Emplacement": 799,
+        "Rapport qualité-prix": 509,
+        "Ambiance": 556,
+        "Personnel": 1008
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 522,
+        "Emplacement": 821,
+        "Rapport qualité-prix": 495,
+        "Ambiance": 544,
+        "Personnel": 1185
+      },
+      "full": {
+        "Chambre": 522,
+        "Emplacement": 821,
+        "Rapport qualité-prix": 495,
+        "Ambiance": 544,
+        "Personnel": 1185
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 868,
+        "Emplacement": 1064,
+        "Rapport qualité-prix": 601,
+        "Ambiance": 673,
+        "Personnel": 1147
+      },
+      "full": {
+        "Chambre": 564,
+        "Emplacement": 729,
+        "Rapport qualité-prix": 379,
+        "Ambiance": 380,
+        "Personnel": 818
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 505,
+        "Emplacement": 1003,
+        "Rapport qualité-prix": 484,
+        "Ambiance": 536,
+        "Personnel": 1008
+      },
+      "full": {
+        "Chambre": 424,
+        "Emplacement": 671,
+        "Rapport qualité-prix": 275,
+        "Ambiance": 314,
+        "Personnel": 704
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 582,
+        "Emplacement": 990,
+        "Rapport qualité-prix": 426,
+        "Ambiance": 448,
+        "Personnel": 1068
+      },
+      "sample": {
+        "Chambre": 814,
+        "Emplacement": 1043,
+        "Rapport qualité-prix": 637,
+        "Ambiance": 652,
+        "Personnel": 1082
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 395,
+        "Emplacement": 667,
+        "Rapport qualité-prix": 268,
+        "Ambiance": 373,
+        "Personnel": 797
+      },
+      "sample": {
+        "Chambre": 395,
+        "Emplacement": 667,
+        "Rapport qualité-prix": 268,
+        "Ambiance": 373,
+        "Personnel": 797
+      }
+    }
+  },
+  "Llama-3.2-3B-Instruct": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 382,
+        "Emplacement": 550,
+        "Rapport qualité-prix": 361,
+        "Ambiance": 280,
+        "Personnel": 438
+      },
+      "full": {
+        "Chambre": 397,
+        "Emplacement": 648,
+        "Rapport qualité-prix": 293,
+        "Ambiance": 264,
+        "Personnel": 437
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 354,
+        "Emplacement": 593,
+        "Rapport qualité-prix": 330,
+        "Ambiance": 343,
+        "Personnel": 454
+      },
+      "sample": {
+        "Chambre": 289,
+        "Emplacement": 539,
+        "Rapport qualité-prix": 353,
+        "Ambiance": 385,
+        "Personnel": 399
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 463,
+        "Emplacement": 814,
+        "Rapport qualité-prix": 343,
+        "Ambiance": 745,
+        "Personnel": 563
+      },
+      "full": {
+        "Chambre": 550,
+        "Emplacement": 844,
+        "Rapport qualité-prix": 384,
+        "Ambiance": 767,
+        "Personnel": 625
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 573,
+        "Emplacement": 884,
+        "Rapport qualité-prix": 432,
+        "Ambiance": 440,
+        "Personnel": 588
+      },
+      "full": {
+        "Chambre": 573,
+        "Emplacement": 884,
+        "Rapport qualité-prix": 432,
+        "Ambiance": 440,
+        "Personnel": 588
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 291,
+        "Emplacement": 607,
+        "Rapport qualité-prix": 296,
+        "Ambiance": 258,
+        "Personnel": 452
+      },
+      "full": {
+        "Chambre": 291,
+        "Emplacement": 607,
+        "Rapport qualité-prix": 296,
+        "Ambiance": 258,
+        "Personnel": 452
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 234,
+        "Emplacement": 450,
+        "Rapport qualité-prix": 250,
+        "Ambiance": 239,
+        "Personnel": 362
+      },
+      "sample": {
+        "Chambre": 259,
+        "Emplacement": 464,
+        "Rapport qualité-prix": 233,
+        "Ambiance": 249,
+        "Personnel": 385
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 379,
+        "Emplacement": 755,
+        "Rapport qualité-prix": 184,
+        "Ambiance": 512,
+        "Personnel": 568
+      },
+      "sample": {
+        "Chambre": 227,
+        "Emplacement": 381,
+        "Rapport qualité-prix": 172,
+        "Ambiance": 404,
+        "Personnel": 413
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 373,
+        "Emplacement": 489,
+        "Rapport qualité-prix": 321,
+        "Ambiance": 395,
+        "Personnel": 482
+      },
+      "full": {
+        "Chambre": 373,
+        "Emplacement": 489,
+        "Rapport qualité-prix": 321,
+        "Ambiance": 395,
+        "Personnel": 482
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 476,
+        "Emplacement": 552,
+        "Rapport qualité-prix": 407,
+        "Ambiance": 499,
+        "Personnel": 454
+      },
+      "full": {
+        "Chambre": 476,
+        "Emplacement": 552,
+        "Rapport qualité-prix": 407,
+        "Ambiance": 499,
+        "Personnel": 454
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 265,
+        "Emplacement": 464,
+        "Rapport qualité-prix": 255,
+        "Ambiance": 463,
+        "Personnel": 509
+      },
+      "full": {
+        "Chambre": 364,
+        "Emplacement": 508,
+        "Rapport qualité-prix": 265,
+        "Ambiance": 446,
+        "Personnel": 455
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 317,
+        "Emplacement": 466,
+        "Rapport qualité-prix": 363,
+        "Ambiance": 369,
+        "Personnel": 459
+      },
+      "full": {
+        "Chambre": 400,
+        "Emplacement": 592,
+        "Rapport qualité-prix": 353,
+        "Ambiance": 386,
+        "Personnel": 502
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 548,
+        "Emplacement": 757,
+        "Rapport qualité-prix": 381,
+        "Ambiance": 522,
+        "Personnel": 591
+      },
+      "sample": {
+        "Chambre": 386,
+        "Emplacement": 659,
+        "Rapport qualité-prix": 438,
+        "Ambiance": 478,
+        "Personnel": 553
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 549,
+        "Emplacement": 722,
+        "Rapport qualité-prix": 430,
+        "Ambiance": 710,
+        "Personnel": 549
+      },
+      "sample": {
+        "Chambre": 549,
+        "Emplacement": 722,
+        "Rapport qualité-prix": 430,
+        "Ambiance": 710,
+        "Personnel": 549
+      }
+    }
+  },
+  "gemma-3-12b-it": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 143,
+        "Emplacement": 1190,
+        "Rapport qualité-prix": 193,
+        "Ambiance": 181,
+        "Personnel": 623
+      },
+      "full": {
+        "Chambre": 73,
+        "Emplacement": 1164,
+        "Rapport qualité-prix": 98,
+        "Ambiance": 170,
+        "Personnel": 614
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 1089,
+        "Emplacement": 1016,
+        "Rapport qualité-prix": 133,
+        "Ambiance": 202,
+        "Personnel": 612
+      },
+      "sample": {
+        "Chambre": 1075,
+        "Emplacement": 1022,
+        "Rapport qualité-prix": 153,
+        "Ambiance": 188,
+        "Personnel": 615
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 1152,
+        "Emplacement": 1005,
+        "Rapport qualité-prix": 145,
+        "Ambiance": 278,
+        "Personnel": 631
+      },
+      "full": {
+        "Chambre": 1121,
+        "Emplacement": 1010,
+        "Rapport qualité-prix": 101,
+        "Ambiance": 235,
+        "Personnel": 631
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 1063,
+        "Emplacement": 1106,
+        "Rapport qualité-prix": 156,
+        "Ambiance": 295,
+        "Personnel": 640
+      },
+      "full": {
+        "Chambre": 1063,
+        "Emplacement": 1106,
+        "Rapport qualité-prix": 156,
+        "Ambiance": 295,
+        "Personnel": 640
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 1114,
+        "Emplacement": 1033,
+        "Rapport qualité-prix": 187,
+        "Ambiance": 256,
+        "Personnel": 666
+      },
+      "full": {
+        "Chambre": 1114,
+        "Emplacement": 1033,
+        "Rapport qualité-prix": 187,
+        "Ambiance": 256,
+        "Personnel": 666
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 932,
+        "Emplacement": 1017,
+        "Rapport qualité-prix": 242,
+        "Ambiance": 169,
+        "Personnel": 653
+      },
+      "sample": {
+        "Chambre": 1112,
+        "Emplacement": 1023,
+        "Rapport qualité-prix": 277,
+        "Ambiance": 191,
+        "Personnel": 660
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 830,
+        "Emplacement": 1021,
+        "Rapport qualité-prix": 81,
+        "Ambiance": 403,
+        "Personnel": 610
+      },
+      "sample": {
+        "Chambre": 1022,
+        "Emplacement": 1020,
+        "Rapport qualité-prix": 165,
+        "Ambiance": 489,
+        "Personnel": 618
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 1140,
+        "Emplacement": 1011,
+        "Rapport qualité-prix": 159,
+        "Ambiance": 128,
+        "Personnel": 625
+      },
+      "full": {
+        "Chambre": 1140,
+        "Emplacement": 1011,
+        "Rapport qualité-prix": 159,
+        "Ambiance": 128,
+        "Personnel": 625
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 1219,
+        "Emplacement": 1014,
+        "Rapport qualité-prix": 214,
+        "Ambiance": 264,
+        "Personnel": 609
+      },
+      "full": {
+        "Chambre": 1219,
+        "Emplacement": 1014,
+        "Rapport qualité-prix": 214,
+        "Ambiance": 264,
+        "Personnel": 609
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 1004,
+        "Emplacement": 984,
+        "Rapport qualité-prix": 189,
+        "Ambiance": 338,
+        "Personnel": 646
+      },
+      "full": {
+        "Chambre": 865,
+        "Emplacement": 981,
+        "Rapport qualité-prix": 157,
+        "Ambiance": 304,
+        "Personnel": 646
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 1152,
+        "Emplacement": 1023,
+        "Rapport qualité-prix": 191,
+        "Ambiance": 193,
+        "Personnel": 622
+      },
+      "full": {
+        "Chambre": 1104,
+        "Emplacement": 1041,
+        "Rapport qualité-prix": 136,
+        "Ambiance": 181,
+        "Personnel": 633
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 1039,
+        "Emplacement": 985,
+        "Rapport qualité-prix": 179,
+        "Ambiance": 187,
+        "Personnel": 630
+      },
+      "sample": {
+        "Chambre": 1089,
+        "Emplacement": 995,
+        "Rapport qualité-prix": 163,
+        "Ambiance": 178,
+        "Personnel": 628
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 988,
+        "Emplacement": 997,
+        "Rapport qualité-prix": 202,
+        "Ambiance": 242,
+        "Personnel": 630
+      },
+      "sample": {
+        "Chambre": 988,
+        "Emplacement": 997,
+        "Rapport qualité-prix": 202,
+        "Ambiance": 242,
+        "Personnel": 630
+      }
+    }
+  },
+  "Llama-3.3-70B-Instruct": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 1123,
+        "Emplacement": 1260,
+        "Rapport qualité-prix": 319,
+        "Ambiance": 246,
+        "Personnel": 669
+      },
+      "full": {
+        "Chambre": 1019,
+        "Emplacement": 1201,
+        "Rapport qualité-prix": 129,
+        "Ambiance": 213,
+        "Personnel": 648
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 1089,
+        "Emplacement": 1070,
+        "Rapport qualité-prix": 213,
+        "Ambiance": 394,
+        "Personnel": 658
+      },
+      "sample": {
+        "Chambre": 1096,
+        "Emplacement": 1121,
+        "Rapport qualité-prix": 258,
+        "Ambiance": 386,
+        "Personnel": 665
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 1205,
+        "Emplacement": 1113,
+        "Rapport qualité-prix": 297,
+        "Ambiance": 401,
+        "Personnel": 675
+      },
+      "full": {
+        "Chambre": 1188,
+        "Emplacement": 1056,
+        "Rapport qualité-prix": 188,
+        "Ambiance": 245,
+        "Personnel": 660
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 1055,
+        "Emplacement": 1239,
+        "Rapport qualité-prix": 274,
+        "Ambiance": 470,
+        "Personnel": 660
+      },
+      "full": {
+        "Chambre": 1055,
+        "Emplacement": 1239,
+        "Rapport qualité-prix": 274,
+        "Ambiance": 470,
+        "Personnel": 660
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 1088,
+        "Emplacement": 1131,
+        "Rapport qualité-prix": 245,
+        "Ambiance": 384,
+        "Personnel": 676
+      },
+      "full": {
+        "Chambre": 1088,
+        "Emplacement": 1131,
+        "Rapport qualité-prix": 245,
+        "Ambiance": 384,
+        "Personnel": 676
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 1052,
+        "Emplacement": 1115,
+        "Rapport qualité-prix": 270,
+        "Ambiance": 326,
+        "Personnel": 680
+      },
+      "sample": {
+        "Chambre": 1155,
+        "Emplacement": 1116,
+        "Rapport qualité-prix": 285,
+        "Ambiance": 378,
+        "Personnel": 678
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 976,
+        "Emplacement": 1055,
+        "Rapport qualité-prix": 125,
+        "Ambiance": 549,
+        "Personnel": 621
+      },
+      "sample": {
+        "Chambre": 1077,
+        "Emplacement": 1119,
+        "Rapport qualité-prix": 192,
+        "Ambiance": 720,
+        "Personnel": 657
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 1117,
+        "Emplacement": 1170,
+        "Rapport qualité-prix": 250,
+        "Ambiance": 277,
+        "Personnel": 682
+      },
+      "full": {
+        "Chambre": 1116,
+        "Emplacement": 1168,
+        "Rapport qualité-prix": 250,
+        "Ambiance": 279,
+        "Personnel": 681
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 1239,
+        "Emplacement": 1099,
+        "Rapport qualité-prix": 219,
+        "Ambiance": 520,
+        "Personnel": 644
+      },
+      "full": {
+        "Chambre": 1239,
+        "Emplacement": 1099,
+        "Rapport qualité-prix": 219,
+        "Ambiance": 520,
+        "Personnel": 644
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 1063,
+        "Emplacement": 1103,
+        "Rapport qualité-prix": 244,
+        "Ambiance": 603,
+        "Personnel": 680
+      },
+      "full": {
+        "Chambre": 825,
+        "Emplacement": 1086,
+        "Rapport qualité-prix": 210,
+        "Ambiance": 572,
+        "Personnel": 672
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 1163,
+        "Emplacement": 1129,
+        "Rapport qualité-prix": 442,
+        "Ambiance": 333,
+        "Personnel": 648
+      },
+      "full": {
+        "Chambre": 1184,
+        "Emplacement": 1142,
+        "Rapport qualité-prix": 163,
+        "Ambiance": 283,
+        "Personnel": 647
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 1141,
+        "Emplacement": 1044,
+        "Rapport qualité-prix": 258,
+        "Ambiance": 460,
+        "Personnel": 660
+      },
+      "sample": {
+        "Chambre": 1136,
+        "Emplacement": 1093,
+        "Rapport qualité-prix": 256,
+        "Ambiance": 478,
+        "Personnel": 647
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 1031,
+        "Emplacement": 1124,
+        "Rapport qualité-prix": 281,
+        "Ambiance": 497,
+        "Personnel": 610
+      },
+      "sample": {
+        "Chambre": 1034,
+        "Emplacement": 1124,
+        "Rapport qualité-prix": 285,
+        "Ambiance": 499,
+        "Personnel": 613
+      }
+    }
+  },
+  "Mistral-Nemo-Instruct-FP8-2407": {
+    "annotator_13@mail.com": {
+      "sample": {
+        "Chambre": 770,
+        "Emplacement": 1266,
+        "Rapport qualité-prix": 147,
+        "Ambiance": 307,
+        "Personnel": 663
+      },
+      "full": {
+        "Chambre": 614,
+        "Emplacement": 1211,
+        "Rapport qualité-prix": 72,
+        "Ambiance": 209,
+        "Personnel": 649
+      }
+    },
+    "annotator_3@mail.com": {
+      "full": {
+        "Chambre": 722,
+        "Emplacement": 1058,
+        "Rapport qualité-prix": 94,
+        "Ambiance": 236,
+        "Personnel": 633
+      },
+      "sample": {
+        "Chambre": 757,
+        "Emplacement": 1101,
+        "Rapport qualité-prix": 107,
+        "Ambiance": 234,
+        "Personnel": 619
+      }
+    },
+    "annotator_4@mail.com": {
+      "sample": {
+        "Chambre": 728,
+        "Emplacement": 1054,
+        "Rapport qualité-prix": 158,
+        "Ambiance": 324,
+        "Personnel": 679
+      },
+      "full": {
+        "Chambre": 824,
+        "Emplacement": 1044,
+        "Rapport qualité-prix": 107,
+        "Ambiance": 249,
+        "Personnel": 659
+      }
+    },
+    "annotator_10@mail.com": {
+      "sample": {
+        "Chambre": 658,
+        "Emplacement": 1219,
+        "Rapport qualité-prix": 141,
+        "Ambiance": 344,
+        "Personnel": 637
+      },
+      "full": {
+        "Chambre": 658,
+        "Emplacement": 1219,
+        "Rapport qualité-prix": 141,
+        "Ambiance": 344,
+        "Personnel": 637
+      }
+    },
+    "annotator_8@mail.com": {
+      "sample": {
+        "Chambre": 775,
+        "Emplacement": 1119,
+        "Rapport qualité-prix": 118,
+        "Ambiance": 327,
+        "Personnel": 635
+      },
+      "full": {
+        "Chambre": 775,
+        "Emplacement": 1119,
+        "Rapport qualité-prix": 118,
+        "Ambiance": 327,
+        "Personnel": 635
+      }
+    },
+    "annotator_1@mail.com": {
+      "full": {
+        "Chambre": 659,
+        "Emplacement": 1090,
+        "Rapport qualité-prix": 117,
+        "Ambiance": 205,
+        "Personnel": 673
+      },
+      "sample": {
+        "Chambre": 741,
+        "Emplacement": 1086,
+        "Rapport qualité-prix": 128,
+        "Ambiance": 224,
+        "Personnel": 650
+      }
+    },
+    "annotator_7@mail.com": {
+      "full": {
+        "Chambre": 503,
+        "Emplacement": 1085,
+        "Rapport qualité-prix": 63,
+        "Ambiance": 325,
+        "Personnel": 632
+      },
+      "sample": {
+        "Chambre": 656,
+        "Emplacement": 1098,
+        "Rapport qualité-prix": 115,
+        "Ambiance": 489,
+        "Personnel": 617
+      }
+    },
+    "annotator_5@mail.com": {
+      "sample": {
+        "Chambre": 779,
+        "Emplacement": 1126,
+        "Rapport qualité-prix": 93,
+        "Ambiance": 229,
+        "Personnel": 617
+      },
+      "full": {
+        "Chambre": 779,
+        "Emplacement": 1126,
+        "Rapport qualité-prix": 93,
+        "Ambiance": 229,
+        "Personnel": 617
+      }
+    },
+    "annotator_6@mail.com": {
+      "sample": {
+        "Chambre": 671,
+        "Emplacement": 1046,
+        "Rapport qualité-prix": 112,
+        "Ambiance": 444,
+        "Personnel": 627
+      },
+      "full": {
+        "Chambre": 671,
+        "Emplacement": 1046,
+        "Rapport qualité-prix": 112,
+        "Ambiance": 444,
+        "Personnel": 627
+      }
+    },
+    "annotator_9@mail.com": {
+      "sample": {
+        "Chambre": 665,
+        "Emplacement": 1099,
+        "Rapport qualité-prix": 122,
+        "Ambiance": 420,
+        "Personnel": 652
+      },
+      "full": {
+        "Chambre": 449,
+        "Emplacement": 1057,
+        "Rapport qualité-prix": 95,
+        "Ambiance": 293,
+        "Personnel": 666
+      }
+    },
+    "annotator_12@mail.com": {
+      "sample": {
+        "Chambre": 735,
+        "Emplacement": 1114,
+        "Rapport qualité-prix": 165,
+        "Ambiance": 280,
+        "Personnel": 615
+      },
+      "full": {
+        "Chambre": 714,
+        "Emplacement": 1095,
+        "Rapport qualité-prix": 80,
+        "Ambiance": 208,
+        "Personnel": 623
+      }
+    },
+    "annotator_11@mail.com": {
+      "full": {
+        "Chambre": 632,
+        "Emplacement": 1047,
+        "Rapport qualité-prix": 159,
+        "Ambiance": 287,
+        "Personnel": 665
+      },
+      "sample": {
+        "Chambre": 615,
+        "Emplacement": 1059,
+        "Rapport qualité-prix": 149,
+        "Ambiance": 367,
+        "Personnel": 611
+      }
+    },
+    "annotator_2@mail.com": {
+      "full": {
+        "Chambre": 636,
+        "Emplacement": 1141,
+        "Rapport qualité-prix": 196,
+        "Ambiance": 269,
+        "Personnel": 617
+      },
+      "sample": {
+        "Chambre": 636,
+        "Emplacement": 1141,
+        "Rapport qualité-prix": 196,
+        "Ambiance": 269,
+        "Personnel": 617
+      }
+    }
+  }
+}

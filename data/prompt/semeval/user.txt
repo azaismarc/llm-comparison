@@ -1,0 +1,49 @@
+# Topics
+Nourriture : opinions se concentrant sur la nourriture en général ou sur des plats spécifiques, les options de restauration
+Service : opinions se concentrant sur le service (client, cuisine, comptoir), sur la rapidité et la qualité du service en général, la préparation des plats, l’attitude et le professionnalisme du personnel, le temps d’attente, les options proposées (ex. plats à emporter)
+Ambiance : opinions se concentrant sur l’atmosphère ou l’environnement intérieur ou extérieur du restaurant (ex. terrasse, jardin), la décoration, les options de divertissement
+Emplacement : opinions se concentrant sur l’emplacement du restaurant évalué, ses alentours, la vue
+Rapport qualité-prix : opinions se concentrant sur le prix des plats, des boissons ou du restaurant en général
+
+# Exemples
+
+Exemple 1 :
+Avis :
+Le sandwich au homard est bon et les spaghetti aux coquilles Saint-Jacques et crevettes sont excellents
+Attributions :
+Nourriture | Avis sur la qualité des plats | "Le sandwich au homard est bon et les spaghetti aux coquilles Saint-Jacques et crevettes sont excellents"
+
+Exemple 2 :
+Avis :
+Les boissons sont beaucoup trop chères
+Attributions :
+Rapport qualité-prix | Avis sur le prix élevé | "beaucoup trop chères"
+Nourriture | Avis sur le prix des boissons | "Les boissons sont beaucoup trop chères"
+
+Exemple 3 :
+Avis :
+Ils ne nous ont jamais apporté les nouilles offertes, ont ignoré nos demandes répétées de sucre et ont jeté nos plats sur la table
+Attributions :
+Service | Critique du service client et de la préparation des plats | "Ils ne nous ont jamais apporté les nouilles offertes, ont ignoré nos demandes répétées de sucre et ont jeté nos plats sur la table"
+
+Exemple 4 :
+Avis :
+C’est un endroit agréable pour se détendre et discuter
+Attributions :
+Ambiance | Avis sur l’atmosphère et l’environnement | "C’est un endroit agréable pour se détendre et discuter"
+
+Exemple 5 :
+Avis :
+La vue est spectaculaire et la nourriture est excellente
+Attributions :
+Emplacement | Avis sur l’emplacement et la vue | "La vue est spectaculaire"
+Nourriture | Avis sur la qualité des plats | "et la nourriture est excellente"
+
+# Avis à Analyser
+{document}
+
+Réponds STRICTEMENT selon ce format :
+Topic | Raisonnement d’attribution | Citation de soutien
+
+Si aucun topic ne correspond :
+Aucun topic pertinent identifié.

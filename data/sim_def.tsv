@@ -1,0 +1,391 @@
+Topic	annotator_1	annotator_2	sbert	w2v
+Chambre	annotator_1@mail.com	annotator_2@mail.com	0.8801875	0.41525197
+Chambre	annotator_1@mail.com	annotator_3@mail.com	0.9465555	0.6884645
+Chambre	annotator_1@mail.com	annotator_4@mail.com	0.86438876	0.13120072
+Chambre	annotator_1@mail.com	annotator_5@mail.com	0.90009445	-0.0029675341
+Chambre	annotator_1@mail.com	annotator_6@mail.com	0.8700042	0.2797198
+Chambre	annotator_1@mail.com	annotator_7@mail.com	0.90116215	0.5816946
+Chambre	annotator_1@mail.com	annotator_8@mail.com	0.93778014	0.79069024
+Chambre	annotator_1@mail.com	annotator_9@mail.com	0.89950913	0.4239186
+Chambre	annotator_1@mail.com	annotator_10@mail.com	0.892122	0.05650778
+Chambre	annotator_1@mail.com	annotator_11@mail.com	0.8586729	0.24741921
+Chambre	annotator_1@mail.com	annotator_12@mail.com	0.88042283	0.47669792
+Chambre	annotator_1@mail.com	annotator_13@mail.com	0.8820469	0.14396563
+Chambre	annotator_2@mail.com	annotator_3@mail.com	0.8969954	0.56332654
+Chambre	annotator_2@mail.com	annotator_4@mail.com	0.9075062	0.49729598
+Chambre	annotator_2@mail.com	annotator_5@mail.com	0.88502043	0.23895086
+Chambre	annotator_2@mail.com	annotator_6@mail.com	0.92447555	0.6404395
+Chambre	annotator_2@mail.com	annotator_7@mail.com	0.91165763	0.4083123
+Chambre	annotator_2@mail.com	annotator_8@mail.com	0.9068888	0.49036866
+Chambre	annotator_2@mail.com	annotator_9@mail.com	0.9143899	0.43874595
+Chambre	annotator_2@mail.com	annotator_10@mail.com	0.9210199	0.18636797
+Chambre	annotator_2@mail.com	annotator_11@mail.com	0.9065002	0.4412316
+Chambre	annotator_2@mail.com	annotator_12@mail.com	0.90551245	0.436915
+Chambre	annotator_2@mail.com	annotator_13@mail.com	0.9037874	0.5642484
+Chambre	annotator_3@mail.com	annotator_4@mail.com	0.86210847	0.2835571
+Chambre	annotator_3@mail.com	annotator_5@mail.com	0.9015493	-0.03173207
+Chambre	annotator_3@mail.com	annotator_6@mail.com	0.88039505	0.47607994
+Chambre	annotator_3@mail.com	annotator_7@mail.com	0.90559125	0.52412605
+Chambre	annotator_3@mail.com	annotator_8@mail.com	0.92942834	0.5762016
+Chambre	annotator_3@mail.com	annotator_9@mail.com	0.90221524	0.45896393
+Chambre	annotator_3@mail.com	annotator_10@mail.com	0.8991478	-0.00041907327
+Chambre	annotator_3@mail.com	annotator_11@mail.com	0.88345253	0.44356966
+Chambre	annotator_3@mail.com	annotator_12@mail.com	0.87344027	0.40128955
+Chambre	annotator_3@mail.com	annotator_13@mail.com	0.8767071	0.3129482
+Chambre	annotator_4@mail.com	annotator_5@mail.com	0.8577855	-0.11736388
+Chambre	annotator_4@mail.com	annotator_6@mail.com	0.9113424	0.4737055
+Chambre	annotator_4@mail.com	annotator_7@mail.com	0.90920496	0.38458186
+Chambre	annotator_4@mail.com	annotator_8@mail.com	0.8879497	0.24737692
+Chambre	annotator_4@mail.com	annotator_9@mail.com	0.9062538	0.57926345
+Chambre	annotator_4@mail.com	annotator_10@mail.com	0.9008037	0.14701103
+Chambre	annotator_4@mail.com	annotator_11@mail.com	0.90196186	0.5052167
+Chambre	annotator_4@mail.com	annotator_12@mail.com	0.9184116	0.48290625
+Chambre	annotator_4@mail.com	annotator_13@mail.com	0.9242296	0.688421
+Chambre	annotator_5@mail.com	annotator_6@mail.com	0.8905209	0.040920787
+Chambre	annotator_5@mail.com	annotator_7@mail.com	0.88234264	0.031646885
+Chambre	annotator_5@mail.com	annotator_8@mail.com	0.91738045	0.084466875
+Chambre	annotator_5@mail.com	annotator_9@mail.com	0.8625582	-0.046489067
+Chambre	annotator_5@mail.com	annotator_10@mail.com	0.88395226	0.38772434
+Chambre	annotator_5@mail.com	annotator_11@mail.com	0.8793502	0.00019856758
+Chambre	annotator_5@mail.com	annotator_12@mail.com	0.8755361	0.024393195
+Chambre	annotator_5@mail.com	annotator_13@mail.com	0.87189925	-0.14599931
+Chambre	annotator_6@mail.com	annotator_7@mail.com	0.888536	0.37976775
+Chambre	annotator_6@mail.com	annotator_8@mail.com	0.89430726	0.33088547
+Chambre	annotator_6@mail.com	annotator_9@mail.com	0.8836109	0.35604998
+Chambre	annotator_6@mail.com	annotator_10@mail.com	0.90681005	0.007515136
+Chambre	annotator_6@mail.com	annotator_11@mail.com	0.9010915	0.35128933
+Chambre	annotator_6@mail.com	annotator_12@mail.com	0.90187234	0.34914812
+Chambre	annotator_6@mail.com	annotator_13@mail.com	0.9072865	0.7131175
+Chambre	annotator_7@mail.com	annotator_8@mail.com	0.91508317	0.6790174
+Chambre	annotator_7@mail.com	annotator_9@mail.com	0.91622764	0.55268264
+Chambre	annotator_7@mail.com	annotator_10@mail.com	0.91832066	0.23147267
+Chambre	annotator_7@mail.com	annotator_11@mail.com	0.8889233	0.28364262
+Chambre	annotator_7@mail.com	annotator_12@mail.com	0.8990009	0.6248299
+Chambre	annotator_7@mail.com	annotator_13@mail.com	0.89573205	0.38419527
+Chambre	annotator_8@mail.com	annotator_9@mail.com	0.8994004	0.5096276
+Chambre	annotator_8@mail.com	annotator_10@mail.com	0.9029068	0.26698315
+Chambre	annotator_8@mail.com	annotator_11@mail.com	0.89108026	0.31412938
+Chambre	annotator_8@mail.com	annotator_12@mail.com	0.9082979	0.6196569
+Chambre	annotator_8@mail.com	annotator_13@mail.com	0.9150478	0.1904524
+Chambre	annotator_9@mail.com	annotator_10@mail.com	0.9358206	0.24592572
+Chambre	annotator_9@mail.com	annotator_11@mail.com	0.8983233	0.36446664
+Chambre	annotator_9@mail.com	annotator_12@mail.com	0.9100488	0.57353073
+Chambre	annotator_9@mail.com	annotator_13@mail.com	0.9066192	0.43694836
+Chambre	annotator_10@mail.com	annotator_11@mail.com	0.8922552	0.17737111
+Chambre	annotator_10@mail.com	annotator_12@mail.com	0.90106004	0.33784378
+Chambre	annotator_10@mail.com	annotator_13@mail.com	0.8884102	-0.062996164
+Chambre	annotator_11@mail.com	annotator_12@mail.com	0.8907144	0.3797852
+Chambre	annotator_11@mail.com	annotator_13@mail.com	0.8740604	0.41014695
+Chambre	annotator_12@mail.com	annotator_13@mail.com	0.9178213	0.42046
+Emplacement	annotator_1@mail.com	annotator_2@mail.com	0.8917229	0.69152474
+Emplacement	annotator_1@mail.com	annotator_3@mail.com	0.87874615	0.68859935
+Emplacement	annotator_1@mail.com	annotator_4@mail.com	0.9206406	0.76525885
+Emplacement	annotator_1@mail.com	annotator_5@mail.com	0.85231435	0.2557855
+Emplacement	annotator_1@mail.com	annotator_6@mail.com	0.87775075	0.62842184
+Emplacement	annotator_1@mail.com	annotator_7@mail.com	0.9255137	0.7593994
+Emplacement	annotator_1@mail.com	annotator_8@mail.com	0.9318212	0.62189656
+Emplacement	annotator_1@mail.com	annotator_9@mail.com	0.9336371	0.70030963
+Emplacement	annotator_1@mail.com	annotator_10@mail.com	0.88282967	0.6632397
+Emplacement	annotator_1@mail.com	annotator_11@mail.com	0.8974957	0.73429096
+Emplacement	annotator_1@mail.com	annotator_12@mail.com	0.9116252	0.6494729
+Emplacement	annotator_1@mail.com	annotator_13@mail.com	0.93748975	0.6903408
+Emplacement	annotator_2@mail.com	annotator_3@mail.com	0.8940098	0.69009686
+Emplacement	annotator_2@mail.com	annotator_4@mail.com	0.9046905	0.6557719
+Emplacement	annotator_2@mail.com	annotator_5@mail.com	0.8472153	0.22659136
+Emplacement	annotator_2@mail.com	annotator_6@mail.com	0.8830911	0.67780334
+Emplacement	annotator_2@mail.com	annotator_7@mail.com	0.9205037	0.82329535
+Emplacement	annotator_2@mail.com	annotator_8@mail.com	0.92130494	0.5759301
+Emplacement	annotator_2@mail.com	annotator_9@mail.com	0.8902241	0.59918565
+Emplacement	annotator_2@mail.com	annotator_10@mail.com	0.93256736	0.6741095
+Emplacement	annotator_2@mail.com	annotator_11@mail.com	0.9385514	0.804347
+Emplacement	annotator_2@mail.com	annotator_12@mail.com	0.9100134	0.6982841
+Emplacement	annotator_2@mail.com	annotator_13@mail.com	0.89366066	0.6535622
+Emplacement	annotator_3@mail.com	annotator_4@mail.com	0.85696113	0.5731137
+Emplacement	annotator_3@mail.com	annotator_5@mail.com	0.8914132	0.26466593
+Emplacement	annotator_3@mail.com	annotator_6@mail.com	0.83218396	0.5450045
+Emplacement	annotator_3@mail.com	annotator_7@mail.com	0.9001771	0.73363674
+Emplacement	annotator_3@mail.com	annotator_8@mail.com	0.9123812	0.6989753
+Emplacement	annotator_3@mail.com	annotator_9@mail.com	0.9034562	0.7662499
+Emplacement	annotator_3@mail.com	annotator_10@mail.com	0.8787379	0.5859055
+Emplacement	annotator_3@mail.com	annotator_11@mail.com	0.8957365	0.7700644
+Emplacement	annotator_3@mail.com	annotator_12@mail.com	0.85736555	0.6032137
+Emplacement	annotator_3@mail.com	annotator_13@mail.com	0.8770462	0.5548266
+Emplacement	annotator_4@mail.com	annotator_5@mail.com	0.83051443	0.1466147
+Emplacement	annotator_4@mail.com	annotator_6@mail.com	0.91429496	0.6031808
+Emplacement	annotator_4@mail.com	annotator_7@mail.com	0.9215605	0.80508
+Emplacement	annotator_4@mail.com	annotator_8@mail.com	0.92999506	0.4848547
+Emplacement	annotator_4@mail.com	annotator_9@mail.com	0.9157832	0.61732495
+Emplacement	annotator_4@mail.com	annotator_10@mail.com	0.91261756	0.6878732
+Emplacement	annotator_4@mail.com	annotator_11@mail.com	0.90941226	0.653939
+Emplacement	annotator_4@mail.com	annotator_12@mail.com	0.9328102	0.7053158
+Emplacement	annotator_4@mail.com	annotator_13@mail.com	0.9310473	0.6771839
+Emplacement	annotator_5@mail.com	annotator_6@mail.com	0.8297947	0.16691652
+Emplacement	annotator_5@mail.com	annotator_7@mail.com	0.86294395	0.20556706
+Emplacement	annotator_5@mail.com	annotator_8@mail.com	0.84861636	0.14418459
+Emplacement	annotator_5@mail.com	annotator_9@mail.com	0.8594014	0.09668611
+Emplacement	annotator_5@mail.com	annotator_10@mail.com	0.832106	0.15678397
+Emplacement	annotator_5@mail.com	annotator_11@mail.com	0.823133	0.20193172
+Emplacement	annotator_5@mail.com	annotator_12@mail.com	0.8135261	0.13939567
+Emplacement	annotator_5@mail.com	annotator_13@mail.com	0.8448533	0.11554672
+Emplacement	annotator_6@mail.com	annotator_7@mail.com	0.87965924	0.66952896
+Emplacement	annotator_6@mail.com	annotator_8@mail.com	0.8891275	0.42616558
+Emplacement	annotator_6@mail.com	annotator_9@mail.com	0.85891515	0.43670532
+Emplacement	annotator_6@mail.com	annotator_10@mail.com	0.90846336	0.5687469
+Emplacement	annotator_6@mail.com	annotator_11@mail.com	0.8723395	0.7013234
+Emplacement	annotator_6@mail.com	annotator_12@mail.com	0.8864142	0.5665035
+Emplacement	annotator_6@mail.com	annotator_13@mail.com	0.88825333	0.55761516
+Emplacement	annotator_7@mail.com	annotator_8@mail.com	0.9224614	0.60721594
+Emplacement	annotator_7@mail.com	annotator_9@mail.com	0.90191126	0.6336804
+Emplacement	annotator_7@mail.com	annotator_10@mail.com	0.89001656	0.7022422
+Emplacement	annotator_7@mail.com	annotator_11@mail.com	0.89346606	0.7678472
+Emplacement	annotator_7@mail.com	annotator_12@mail.com	0.9042423	0.7276452
+Emplacement	annotator_7@mail.com	annotator_13@mail.com	0.9152114	0.6711909
+Emplacement	annotator_8@mail.com	annotator_9@mail.com	0.9437037	0.7516112
+Emplacement	annotator_8@mail.com	annotator_10@mail.com	0.90550804	0.47614416
+Emplacement	annotator_8@mail.com	annotator_11@mail.com	0.92279315	0.69632363
+Emplacement	annotator_8@mail.com	annotator_12@mail.com	0.9161174	0.49465382
+Emplacement	annotator_8@mail.com	annotator_13@mail.com	0.9268068	0.50641483
+Emplacement	annotator_9@mail.com	annotator_10@mail.com	0.8920968	0.6210718
+Emplacement	annotator_9@mail.com	annotator_11@mail.com	0.90101504	0.7303259
+Emplacement	annotator_9@mail.com	annotator_12@mail.com	0.9037396	0.5995729
+Emplacement	annotator_9@mail.com	annotator_13@mail.com	0.9228803	0.59540963
+Emplacement	annotator_10@mail.com	annotator_11@mail.com	0.9206842	0.6270503
+Emplacement	annotator_10@mail.com	annotator_12@mail.com	0.9076773	0.74279636
+Emplacement	annotator_10@mail.com	annotator_13@mail.com	0.90034336	0.65505856
+Emplacement	annotator_11@mail.com	annotator_12@mail.com	0.92115325	0.65589803
+Emplacement	annotator_11@mail.com	annotator_13@mail.com	0.8968495	0.71837246
+Emplacement	annotator_12@mail.com	annotator_13@mail.com	0.91680646	0.6561143
+Ambiance	annotator_1@mail.com	annotator_2@mail.com	0.83366305	0.047168355
+Ambiance	annotator_1@mail.com	annotator_3@mail.com	0.8670902	0.102093294
+Ambiance	annotator_1@mail.com	annotator_4@mail.com	0.88319725	0.45636663
+Ambiance	annotator_1@mail.com	annotator_5@mail.com	0.8353637	0.13195574
+Ambiance	annotator_1@mail.com	annotator_6@mail.com	0.8841671	0.45526248
+Ambiance	annotator_1@mail.com	annotator_7@mail.com	0.87514544	0.23331504
+Ambiance	annotator_1@mail.com	annotator_8@mail.com	0.85665655	0.15629694
+Ambiance	annotator_1@mail.com	annotator_9@mail.com	0.8875042	0.5431885
+Ambiance	annotator_1@mail.com	annotator_10@mail.com	0.8620765	0.2311545
+Ambiance	annotator_1@mail.com	annotator_11@mail.com	0.8555104	0.29618442
+Ambiance	annotator_1@mail.com	annotator_12@mail.com	0.8492899	0.2788751
+Ambiance	annotator_1@mail.com	annotator_13@mail.com	0.83997345	0.012444628
+Ambiance	annotator_2@mail.com	annotator_3@mail.com	0.8518207	0.41548476
+Ambiance	annotator_2@mail.com	annotator_4@mail.com	0.8767319	0.40690482
+Ambiance	annotator_2@mail.com	annotator_5@mail.com	0.9045368	0.4233864
+Ambiance	annotator_2@mail.com	annotator_6@mail.com	0.8654723	-0.02536285
+Ambiance	annotator_2@mail.com	annotator_7@mail.com	0.9022408	0.39011407
+Ambiance	annotator_2@mail.com	annotator_8@mail.com	0.9038423	0.21219084
+Ambiance	annotator_2@mail.com	annotator_9@mail.com	0.8941512	0.32399216
+Ambiance	annotator_2@mail.com	annotator_10@mail.com	0.92046237	0.2667565
+Ambiance	annotator_2@mail.com	annotator_11@mail.com	0.91854763	0.445996
+Ambiance	annotator_2@mail.com	annotator_12@mail.com	0.84961975	0.2351408
+Ambiance	annotator_2@mail.com	annotator_13@mail.com	0.82632524	0.3783043
+Ambiance	annotator_3@mail.com	annotator_4@mail.com	0.85467815	0.3582095
+Ambiance	annotator_3@mail.com	annotator_5@mail.com	0.85342586	0.32648894
+Ambiance	annotator_3@mail.com	annotator_6@mail.com	0.85251516	0.17386267
+Ambiance	annotator_3@mail.com	annotator_7@mail.com	0.8870746	0.5214828
+Ambiance	annotator_3@mail.com	annotator_8@mail.com	0.8739942	0.37080836
+Ambiance	annotator_3@mail.com	annotator_9@mail.com	0.8672253	0.2706049
+Ambiance	annotator_3@mail.com	annotator_10@mail.com	0.8701974	0.3903166
+Ambiance	annotator_3@mail.com	annotator_11@mail.com	0.8550029	0.40779024
+Ambiance	annotator_3@mail.com	annotator_12@mail.com	0.8369583	0.19046682
+Ambiance	annotator_3@mail.com	annotator_13@mail.com	0.88254577	0.46924114
+Ambiance	annotator_4@mail.com	annotator_5@mail.com	0.84376395	0.31869662
+Ambiance	annotator_4@mail.com	annotator_6@mail.com	0.91636825	0.46877527
+Ambiance	annotator_4@mail.com	annotator_7@mail.com	0.9283582	0.49454212
+Ambiance	annotator_4@mail.com	annotator_8@mail.com	0.85350156	0.22265562
+Ambiance	annotator_4@mail.com	annotator_9@mail.com	0.9199923	0.7867418
+Ambiance	annotator_4@mail.com	annotator_10@mail.com	0.9156957	0.58750004
+Ambiance	annotator_4@mail.com	annotator_11@mail.com	0.90972453	0.49426076
+Ambiance	annotator_4@mail.com	annotator_12@mail.com	0.8782594	0.63459235
+Ambiance	annotator_4@mail.com	annotator_13@mail.com	0.84051716	0.3882574
+Ambiance	annotator_5@mail.com	annotator_6@mail.com	0.85223716	0.24322577
+Ambiance	annotator_5@mail.com	annotator_7@mail.com	0.861791	0.31256846
+Ambiance	annotator_5@mail.com	annotator_8@mail.com	0.8936651	0.27509895
+Ambiance	annotator_5@mail.com	annotator_9@mail.com	0.87771994	0.36703607
+Ambiance	annotator_5@mail.com	annotator_10@mail.com	0.86952055	0.3094689
+Ambiance	annotator_5@mail.com	annotator_11@mail.com	0.8958608	0.41766065
+Ambiance	annotator_5@mail.com	annotator_12@mail.com	0.8484607	0.18304412
+Ambiance	annotator_5@mail.com	annotator_13@mail.com	0.835072	0.103841
+Ambiance	annotator_6@mail.com	annotator_7@mail.com	0.90198195	0.19605742
+Ambiance	annotator_6@mail.com	annotator_8@mail.com	0.83742094	0.20234226
+Ambiance	annotator_6@mail.com	annotator_9@mail.com	0.9108851	0.5062765
+Ambiance	annotator_6@mail.com	annotator_10@mail.com	0.8934015	0.46939152
+Ambiance	annotator_6@mail.com	annotator_11@mail.com	0.8868274	0.37768367
+Ambiance	annotator_6@mail.com	annotator_12@mail.com	0.8910922	0.43842083
+Ambiance	annotator_6@mail.com	annotator_13@mail.com	0.8238685	-0.032073118
+Ambiance	annotator_7@mail.com	annotator_8@mail.com	0.886814	0.3670875
+Ambiance	annotator_7@mail.com	annotator_9@mail.com	0.94731706	0.54363817
+Ambiance	annotator_7@mail.com	annotator_10@mail.com	0.93782234	0.4252038
+Ambiance	annotator_7@mail.com	annotator_11@mail.com	0.918568	0.37408358
+Ambiance	annotator_7@mail.com	annotator_12@mail.com	0.87866867	0.42079094
+Ambiance	annotator_7@mail.com	annotator_13@mail.com	0.8470826	0.4349861
+Ambiance	annotator_8@mail.com	annotator_9@mail.com	0.8798739	0.31109485
+Ambiance	annotator_8@mail.com	annotator_10@mail.com	0.8946935	0.3275333
+Ambiance	annotator_8@mail.com	annotator_11@mail.com	0.87971747	0.38859192
+Ambiance	annotator_8@mail.com	annotator_12@mail.com	0.80734074	0.14273773
+Ambiance	annotator_8@mail.com	annotator_13@mail.com	0.8325333	0.026238495
+Ambiance	annotator_9@mail.com	annotator_10@mail.com	0.91874015	0.6159713
+Ambiance	annotator_9@mail.com	annotator_11@mail.com	0.9212413	0.42613766
+Ambiance	annotator_9@mail.com	annotator_12@mail.com	0.9067217	0.55035985
+Ambiance	annotator_9@mail.com	annotator_13@mail.com	0.8379494	0.26201615
+Ambiance	annotator_10@mail.com	annotator_11@mail.com	0.9297214	0.471478
+Ambiance	annotator_10@mail.com	annotator_12@mail.com	0.86045885	0.3105139
+Ambiance	annotator_10@mail.com	annotator_13@mail.com	0.83385456	0.17959441
+Ambiance	annotator_11@mail.com	annotator_12@mail.com	0.88730025	0.25218275
+Ambiance	annotator_11@mail.com	annotator_13@mail.com	0.8347274	0.2249988
+Ambiance	annotator_12@mail.com	annotator_13@mail.com	0.8648519	0.31688517
+Rapport qualité-prix	annotator_1@mail.com	annotator_2@mail.com	0.9086517	0.5947346
+Rapport qualité-prix	annotator_1@mail.com	annotator_3@mail.com	0.8762388	-0.00034638506
+Rapport qualité-prix	annotator_1@mail.com	annotator_4@mail.com	0.90291023	0.37272677
+Rapport qualité-prix	annotator_1@mail.com	annotator_5@mail.com	0.9102918	0.49477473
+Rapport qualité-prix	annotator_1@mail.com	annotator_6@mail.com	0.890296	0.25659794
+Rapport qualité-prix	annotator_1@mail.com	annotator_7@mail.com	0.9268196	0.6786105
+Rapport qualité-prix	annotator_1@mail.com	annotator_8@mail.com	0.90684664	0.4214929
+Rapport qualité-prix	annotator_1@mail.com	annotator_9@mail.com	0.9043769	0.46591163
+Rapport qualité-prix	annotator_1@mail.com	annotator_10@mail.com	0.89430517	-0.031534914
+Rapport qualité-prix	annotator_1@mail.com	annotator_11@mail.com	0.92270494	0.5465698
+Rapport qualité-prix	annotator_1@mail.com	annotator_12@mail.com	0.9267645	0.6803278
+Rapport qualité-prix	annotator_1@mail.com	annotator_13@mail.com	0.9362024	0.64814997
+Rapport qualité-prix	annotator_2@mail.com	annotator_3@mail.com	0.8655054	0.3681826
+Rapport qualité-prix	annotator_2@mail.com	annotator_4@mail.com	0.9348974	0.6121551
+Rapport qualité-prix	annotator_2@mail.com	annotator_5@mail.com	0.8982789	0.6180273
+Rapport qualité-prix	annotator_2@mail.com	annotator_6@mail.com	0.88345903	0.47058892
+Rapport qualité-prix	annotator_2@mail.com	annotator_7@mail.com	0.945734	0.8030617
+Rapport qualité-prix	annotator_2@mail.com	annotator_8@mail.com	0.9064741	0.7294138
+Rapport qualité-prix	annotator_2@mail.com	annotator_9@mail.com	0.9450034	0.8715587
+Rapport qualité-prix	annotator_2@mail.com	annotator_10@mail.com	0.9161484	0.20507272
+Rapport qualité-prix	annotator_2@mail.com	annotator_11@mail.com	0.95792556	0.6409321
+Rapport qualité-prix	annotator_2@mail.com	annotator_12@mail.com	0.90396285	0.564163
+Rapport qualité-prix	annotator_2@mail.com	annotator_13@mail.com	0.90271556	0.757224
+Rapport qualité-prix	annotator_3@mail.com	annotator_4@mail.com	0.88019073	0.49445283
+Rapport qualité-prix	annotator_3@mail.com	annotator_5@mail.com	0.88211477	0.27754772
+Rapport qualité-prix	annotator_3@mail.com	annotator_6@mail.com	0.87614405	0.32775807
+Rapport qualité-prix	annotator_3@mail.com	annotator_7@mail.com	0.8746538	0.38092893
+Rapport qualité-prix	annotator_3@mail.com	annotator_8@mail.com	0.9019883	0.49824318
+Rapport qualité-prix	annotator_3@mail.com	annotator_9@mail.com	0.8813597	0.5096221
+Rapport qualité-prix	annotator_3@mail.com	annotator_10@mail.com	0.90464073	0.5115571
+Rapport qualité-prix	annotator_3@mail.com	annotator_11@mail.com	0.8859869	0.52262866
+Rapport qualité-prix	annotator_3@mail.com	annotator_12@mail.com	0.85079384	0.06749288
+Rapport qualité-prix	annotator_3@mail.com	annotator_13@mail.com	0.8918015	0.26423654
+Rapport qualité-prix	annotator_4@mail.com	annotator_5@mail.com	0.88446933	0.42945588
+Rapport qualité-prix	annotator_4@mail.com	annotator_6@mail.com	0.8967832	0.39534026
+Rapport qualité-prix	annotator_4@mail.com	annotator_7@mail.com	0.93387836	0.6501775
+Rapport qualité-prix	annotator_4@mail.com	annotator_8@mail.com	0.9187388	0.7549739
+Rapport qualité-prix	annotator_4@mail.com	annotator_9@mail.com	0.911803	0.68510085
+Rapport qualité-prix	annotator_4@mail.com	annotator_10@mail.com	0.9253608	0.4928524
+Rapport qualité-prix	annotator_4@mail.com	annotator_11@mail.com	0.9347843	0.70059025
+Rapport qualité-prix	annotator_4@mail.com	annotator_12@mail.com	0.8923415	0.29096457
+Rapport qualité-prix	annotator_4@mail.com	annotator_13@mail.com	0.8971263	0.37968603
+Rapport qualité-prix	annotator_5@mail.com	annotator_6@mail.com	0.85772014	0.3574515
+Rapport qualité-prix	annotator_5@mail.com	annotator_7@mail.com	0.8856529	0.5228168
+Rapport qualité-prix	annotator_5@mail.com	annotator_8@mail.com	0.9015926	0.49981782
+Rapport qualité-prix	annotator_5@mail.com	annotator_9@mail.com	0.91441286	0.5427448
+Rapport qualité-prix	annotator_5@mail.com	annotator_10@mail.com	0.88361174	0.08654537
+Rapport qualité-prix	annotator_5@mail.com	annotator_11@mail.com	0.91472787	0.599027
+Rapport qualité-prix	annotator_5@mail.com	annotator_12@mail.com	0.8958039	0.47206226
+Rapport qualité-prix	annotator_5@mail.com	annotator_13@mail.com	0.8852728	0.584308
+Rapport qualité-prix	annotator_6@mail.com	annotator_7@mail.com	0.89635223	0.49614108
+Rapport qualité-prix	annotator_6@mail.com	annotator_8@mail.com	0.86474216	0.4286959
+Rapport qualité-prix	annotator_6@mail.com	annotator_9@mail.com	0.85499555	0.45341864
+Rapport qualité-prix	annotator_6@mail.com	annotator_10@mail.com	0.88077205	0.27300373
+Rapport qualité-prix	annotator_6@mail.com	annotator_11@mail.com	0.8926696	0.42980593
+Rapport qualité-prix	annotator_6@mail.com	annotator_12@mail.com	0.88723546	0.16698855
+Rapport qualité-prix	annotator_6@mail.com	annotator_13@mail.com	0.9038695	0.35344988
+Rapport qualité-prix	annotator_7@mail.com	annotator_8@mail.com	0.907984	0.6991913
+Rapport qualité-prix	annotator_7@mail.com	annotator_9@mail.com	0.92391217	0.7730179
+Rapport qualité-prix	annotator_7@mail.com	annotator_10@mail.com	0.9171504	0.24978109
+Rapport qualité-prix	annotator_7@mail.com	annotator_11@mail.com	0.9377601	0.6947588
+Rapport qualité-prix	annotator_7@mail.com	annotator_12@mail.com	0.91018146	0.5150215
+Rapport qualité-prix	annotator_7@mail.com	annotator_13@mail.com	0.9277171	0.67969733
+Rapport qualité-prix	annotator_8@mail.com	annotator_9@mail.com	0.92644477	0.8099051
+Rapport qualité-prix	annotator_8@mail.com	annotator_10@mail.com	0.92085445	0.50107485
+Rapport qualité-prix	annotator_8@mail.com	annotator_11@mail.com	0.90443754	0.6858817
+Rapport qualité-prix	annotator_8@mail.com	annotator_12@mail.com	0.8845881	0.396401
+Rapport qualité-prix	annotator_8@mail.com	annotator_13@mail.com	0.91494143	0.49756852
+Rapport qualité-prix	annotator_9@mail.com	annotator_10@mail.com	0.9144716	0.38967612
+Rapport qualité-prix	annotator_9@mail.com	annotator_11@mail.com	0.93003154	0.6748473
+Rapport qualité-prix	annotator_9@mail.com	annotator_12@mail.com	0.8795049	0.49146962
+Rapport qualité-prix	annotator_9@mail.com	annotator_13@mail.com	0.8941096	0.6585848
+Rapport qualité-prix	annotator_10@mail.com	annotator_11@mail.com	0.9193269	0.40310326
+Rapport qualité-prix	annotator_10@mail.com	annotator_12@mail.com	0.86996114	-0.028923493
+Rapport qualité-prix	annotator_10@mail.com	annotator_13@mail.com	0.89176524	0.019413002
+Rapport qualité-prix	annotator_11@mail.com	annotator_12@mail.com	0.9202734	0.38519114
+Rapport qualité-prix	annotator_11@mail.com	annotator_13@mail.com	0.91101176	0.5686092
+Rapport qualité-prix	annotator_12@mail.com	annotator_13@mail.com	0.92809725	0.6086604
+Personnel	annotator_1@mail.com	annotator_2@mail.com	0.849561	-0.104607716
+Personnel	annotator_1@mail.com	annotator_3@mail.com	0.82438415	-0.11911714
+Personnel	annotator_1@mail.com	annotator_4@mail.com	0.8333877	0.18541001
+Personnel	annotator_1@mail.com	annotator_5@mail.com	0.8481761	0.110520445
+Personnel	annotator_1@mail.com	annotator_6@mail.com	0.91333926	0.42350796
+Personnel	annotator_1@mail.com	annotator_7@mail.com	0.910546	0.30916148
+Personnel	annotator_1@mail.com	annotator_8@mail.com	0.85321367	0.057429
+Personnel	annotator_1@mail.com	annotator_9@mail.com	0.88526475	0.17588358
+Personnel	annotator_1@mail.com	annotator_10@mail.com	0.86388	0.33507332
+Personnel	annotator_1@mail.com	annotator_11@mail.com	0.8891611	0.4111607
+Personnel	annotator_1@mail.com	annotator_12@mail.com	0.8652402	0.09469267
+Personnel	annotator_1@mail.com	annotator_13@mail.com	0.85519266	0.12828828
+Personnel	annotator_2@mail.com	annotator_3@mail.com	0.8621293	-0.007459607
+Personnel	annotator_2@mail.com	annotator_4@mail.com	0.87096643	0.10303318
+Personnel	annotator_2@mail.com	annotator_5@mail.com	0.86067533	0.20051624
+Personnel	annotator_2@mail.com	annotator_6@mail.com	0.867603	0.038262464
+Personnel	annotator_2@mail.com	annotator_7@mail.com	0.8796731	0.42235118
+Personnel	annotator_2@mail.com	annotator_8@mail.com	0.8801795	-0.045433696
+Personnel	annotator_2@mail.com	annotator_9@mail.com	0.90308845	0.5412848
+Personnel	annotator_2@mail.com	annotator_10@mail.com	0.87706983	0.42172757
+Personnel	annotator_2@mail.com	annotator_11@mail.com	0.8653358	0.18151303
+Personnel	annotator_2@mail.com	annotator_12@mail.com	0.85638773	0.34736654
+Personnel	annotator_2@mail.com	annotator_13@mail.com	0.8933536	0.38289183
+Personnel	annotator_3@mail.com	annotator_4@mail.com	0.80055225	-0.014685046
+Personnel	annotator_3@mail.com	annotator_5@mail.com	0.8374412	-0.0023775152
+Personnel	annotator_3@mail.com	annotator_6@mail.com	0.79828703	-0.015719386
+Personnel	annotator_3@mail.com	annotator_7@mail.com	0.8029586	-0.012891869
+Personnel	annotator_3@mail.com	annotator_8@mail.com	0.8855859	0.23755723
+Personnel	annotator_3@mail.com	annotator_9@mail.com	0.8267855	-0.07116293
+Personnel	annotator_3@mail.com	annotator_10@mail.com	0.8223363	-0.014549263
+Personnel	annotator_3@mail.com	annotator_11@mail.com	0.7912486	-0.11549617
+Personnel	annotator_3@mail.com	annotator_12@mail.com	0.7873552	-0.01844818
+Personnel	annotator_3@mail.com	annotator_13@mail.com	0.8152757	0.17949697
+Personnel	annotator_4@mail.com	annotator_5@mail.com	0.8370488	0.4444541
+Personnel	annotator_4@mail.com	annotator_6@mail.com	0.87274605	0.43938076
+Personnel	annotator_4@mail.com	annotator_7@mail.com	0.8720799	0.449962
+Personnel	annotator_4@mail.com	annotator_8@mail.com	0.8646189	0.35491952
+Personnel	annotator_4@mail.com	annotator_9@mail.com	0.88613933	0.38672012
+Personnel	annotator_4@mail.com	annotator_10@mail.com	0.8916263	0.554511
+Personnel	annotator_4@mail.com	annotator_11@mail.com	0.8974727	0.6470032
+Personnel	annotator_4@mail.com	annotator_12@mail.com	0.8848194	0.37614593
+Personnel	annotator_4@mail.com	annotator_13@mail.com	0.8929483	0.3457708
+Personnel	annotator_5@mail.com	annotator_6@mail.com	0.8584054	0.26011652
+Personnel	annotator_5@mail.com	annotator_7@mail.com	0.8558606	0.35554573
+Personnel	annotator_5@mail.com	annotator_8@mail.com	0.86699164	0.038782142
+Personnel	annotator_5@mail.com	annotator_9@mail.com	0.84069145	0.35399368
+Personnel	annotator_5@mail.com	annotator_10@mail.com	0.85969007	0.48996577
+Personnel	annotator_5@mail.com	annotator_11@mail.com	0.85202146	0.43063197
+Personnel	annotator_5@mail.com	annotator_12@mail.com	0.8556279	0.36398727
+Personnel	annotator_5@mail.com	annotator_13@mail.com	0.850454	0.22542205
+Personnel	annotator_6@mail.com	annotator_7@mail.com	0.9105903	0.374538
+Personnel	annotator_6@mail.com	annotator_8@mail.com	0.85722196	0.19902797
+Personnel	annotator_6@mail.com	annotator_9@mail.com	0.9174886	0.4144118
+Personnel	annotator_6@mail.com	annotator_10@mail.com	0.8791733	0.4569721
+Personnel	annotator_6@mail.com	annotator_11@mail.com	0.91119164	0.61593777
+Personnel	annotator_6@mail.com	annotator_12@mail.com	0.91797537	0.39930123
+Personnel	annotator_6@mail.com	annotator_13@mail.com	0.8725672	0.22361581
+Personnel	annotator_7@mail.com	annotator_8@mail.com	0.8464503	0.10269973
+Personnel	annotator_7@mail.com	annotator_9@mail.com	0.9340632	0.64856374
+Personnel	annotator_7@mail.com	annotator_10@mail.com	0.94582343	0.7162899
+Personnel	annotator_7@mail.com	annotator_11@mail.com	0.92313856	0.6955078
+Personnel	annotator_7@mail.com	annotator_12@mail.com	0.89684343	0.53419656
+Personnel	annotator_7@mail.com	annotator_13@mail.com	0.9022248	0.5470919
+Personnel	annotator_8@mail.com	annotator_9@mail.com	0.86082804	0.1367225
+Personnel	annotator_8@mail.com	annotator_10@mail.com	0.85445464	0.11130553
+Personnel	annotator_8@mail.com	annotator_11@mail.com	0.8466655	0.21062317
+Personnel	annotator_8@mail.com	annotator_12@mail.com	0.8340388	0.05566643
+Personnel	annotator_8@mail.com	annotator_13@mail.com	0.8653861	0.052227437
+Personnel	annotator_9@mail.com	annotator_10@mail.com	0.9178086	0.66021985
+Personnel	annotator_9@mail.com	annotator_11@mail.com	0.90783143	0.60110086
+Personnel	annotator_9@mail.com	annotator_12@mail.com	0.9084889	0.663637
+Personnel	annotator_9@mail.com	annotator_13@mail.com	0.89544076	0.39418763
+Personnel	annotator_10@mail.com	annotator_11@mail.com	0.9217658	0.71755123
+Personnel	annotator_10@mail.com	annotator_12@mail.com	0.8904058	0.49738598
+Personnel	annotator_10@mail.com	annotator_13@mail.com	0.9077964	0.5394367
+Personnel	annotator_11@mail.com	annotator_12@mail.com	0.9189799	0.5675708
+Personnel	annotator_11@mail.com	annotator_13@mail.com	0.8887184	0.39775428
+Personnel	annotator_12@mail.com	annotator_13@mail.com	0.8954294	0.48053685
