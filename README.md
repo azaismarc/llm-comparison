@@ -43,8 +43,8 @@ pip install -r requirements.txt
 | `hotels.tsv`        | Hotel reviews dataset           |
 | `form.tsv`          | Extracted Google Form responses |
 | `id_to_remove.json` | IDs of uninformative reviews    |
-| `prompt/`           | Directory with prompt examples  |
-| `semeval/`          | Sanitized ground-truth dataset  |
+| `prompt/`           | Directory with prompt template  |
+| `semeval/`          | Santity check ground-truth dataset  |
 
 ---
 
