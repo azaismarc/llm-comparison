@@ -85,3 +85,16 @@ python task_compute_x_.py
 ## Figures
 
 All notebooks for figure generation are in the `graph/` folder.
+
+## Citation
+
+```
+@inproceedings{azais2026does,
+  title={Does Your Definition Matter? LLMs Comparison Between Prompt Sensitivity and Internal Behavior for Social Media Analysis},
+  author={Azaïs, Marc-Alexis and Coustaty, Mickaël and Guillaume, Jean-Loup},
+  booktitle={International Conference on Pattern Recognition},
+  pages={510--525},
+  year={2026},
+  organization={Springer}
+}
+```
